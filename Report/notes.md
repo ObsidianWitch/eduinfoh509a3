@@ -22,3 +22,5 @@ as xmllint.
 xqilla authors_coauthors.xq > Output/authors_coauthors_int.xml
 xmllint --format authors_coauthors_int.xml > authors_coauthors.xml
 ~~~
+
+* return ($var1, $var2, ...) to return multiple elements
