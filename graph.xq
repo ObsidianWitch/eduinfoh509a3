@@ -1,13 +1,11 @@
 xquery version "1.0";
-declare boundary-space strip;
 
-declare namespace ufn = "urn:user.fn";
-declare namespace g = "urn:user.graph";
+module namespace ufng = "urn:user.fn.graph";
 
-declare function ufn:initGraph($publications) {
+declare function ufng:initGraph($publications) {
     let $authors := fn:distinct-values($publications/author)
-    let $nodes := ufn:initNodes($publications, $authors)
-    let $edges := ufn:initEdges($publications, $authors, $nodes)
+    let $nodes := ufng:initNodes($publications, $authors)
+    let $edges := ufng:initEdges($publications, $authors, $nodes)
     
     return element graph {
         element nodes { $nodes },
@@ -15,9 +13,8 @@ declare function ufn:initGraph($publications) {
     }
 };
 
-declare function ufn:initNodes($publications, $authors) {
+declare function ufng:initNodes($publications, $authors) {
     for $auth at $i in $authors
-        let $author_publications := $publications[author = $auth]
         
         return element node {
             attribute id { $i },
@@ -25,7 +22,7 @@ declare function ufn:initNodes($publications, $authors) {
         }
 };
 
-declare function ufn:initEdges($publications, $authors, $nodes) {
+declare function ufng:initEdges($publications, $authors, $nodes) {
     for $auth at $i in $authors
         let $author_publications := $publications[author = $auth]
         let $coauthors := fn:distinct-values($author_publications/author[. != $auth])
@@ -45,7 +42,3 @@ declare function ufn:initEdges($publications, $authors, $nodes) {
                 }
             else ()
 };
-
-let $dblp := fn:doc("Data/dblp-excerpt.xml")
-let $publications := $dblp/dblp/*
-return ufn:initGraph($publications)
