@@ -32,7 +32,6 @@ declare function ufn:coauthors($author, $author_publications) {
     
     for $auth in $authors
         let $author_publications := $publications[author = $auth]
-        let $coauthors := fn:distinct-values($author_publications/author[. != $auth])
 
         return
             <author>
