@@ -30,13 +30,10 @@ declare function ufng:initEdges($publications, $authors, $nodes) {
         
         for $coauth in $coauthors
             let $coauth_id := data($nodes[@name = $coauth]/@id)
-        
-            let $edge_id := fn:concat($i, $coauth_id)
             
             (: avoid duplicates (undirected graph) :)
             return if ($i < $coauth_id) then
                 element edge {
-                    attribute id { $edge_id },
                     attribute from { $i },
                     attribute to { $coauth_id }
                 }

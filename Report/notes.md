@@ -9,18 +9,22 @@
 
 * the xqilla cmmand line utility was used to run our queries
 ~~~
-xqilla authors_coauthors.xq > Output/authors_coauthors_int.xml
+> xqilla authors_coauthors.xq > Output/authors_coauthors_int.xml
 ~~~
 
 * the xpathtester website (see above) can also be used to run quick tests easily
 
-* the output is not indented correcly using ```declare boundary-space preserve;```.
+* the output is not always indented correcly using ```declare boundary-space preserve;```.
 In order to have correct indentation we can set ```declare boundary-space strip;```
 (which is the default even if it is not declared) and use an external tool such
 as xmllint.
 ~~~
-xqilla authors_coauthors.xq > Output/authors_coauthors_int.xml
-xmllint --format authors_coauthors_int.xml > authors_coauthors.xml
+> xqilla authors_coauthors.xq > Output/authors_coauthors_int.xml
+> xmllint --format authors_coauthors_int.xml > authors_coauthors.xml
+
+OU
+
+> xqilla authors_coauthors.xq | xmllint -format - > authors_coauthors.xml
 ~~~
 
 * return ($var1, $var2, ...) to return multiple elements
