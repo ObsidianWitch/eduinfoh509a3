@@ -1,5 +1,28 @@
 \section{Proceedings}
 
-% TODO
+\noindent For each proceeding, we had to display it and its associated
+inproceedings titles.\\
+
+There were no difficulties here, first of all, all
+proceedings were retrieved by filtering the publications by their node name
+(\hl{fn:name()}). And then, for each of these proceedings, their title was
+retrieved, as well as their associated inproceedings by filtering on the
+crossref attribute using the proceeding's key value.\\
+
+Once the proceeding's title and associated inproceedings are retrieved, they can
+be returned. As, these are different elements (\hl{<proc\_title></proc\_title>}
+and \hl{<title></title>}), the return tag must be followed by parenthesis
+encapsulating the elements we want to return (see listing below).\\
+
+\begin{lstlisting}
+for $proc in $proceedings
+    let $proc_title := <proc_title>{$proc/title/text()}</proc_title>
+    let $inproc_titles := ufn:inproceedings($proc/@key, $dblp)
+
+    return (
+        $proc_title,
+        $inproc_titles
+    )
+\end{lstlisting}
 
 \newpage
