@@ -34,10 +34,27 @@ declare function ufn:distances($graph, $start, $node, $visited, $level) {
 declare function ufn:distances($graph) {
     let $distances := (
         for $node in $graph/nodes/node
-            return ufn:distances($graph, $node, $node, (data($node/@id)), 1)
+            let $distances := ufn:distances($graph, $node, $node, (data($node/@id)), 1)
+            
+            return ufn:filter_duplicates($node, $distances)
     )
     
     return element distances { $distances }
+};
+
+(:
+ : Filter the distances for the given node (author1) by taking the minimum
+ : distance value from the duplicates (author2)
+ :)
+declare function ufn:filter_duplicates($node, $distances) {
+    for $author2 in distinct-values($distances/@author2)
+        let $author2_distances := $distances[@author2 = $author2]
+        
+        return element distance {
+            attribute author1 { data($node/@name) },
+            attribute author2 { $author2 },
+            attribute distance { min($author2_distances/@distance) }
+        }
 };
 
 let $dblp := fn:doc("Data/dblp-excerpt.xml")
