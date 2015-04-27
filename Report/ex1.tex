@@ -1,5 +1,35 @@
 \section{Authors \& coauthors}
 
-% TODO
+This exercise's goal was to retrieve for each author the number of coauthors
+and the number of joint publications with each of them.\\
+
+First of all, all the authors were retrieved from the publications. The same
+author can appear on multiple publications, so we had to use the
+\hl{fn:distinct-values()} function in order to avoid duplicates.\\
+
+Then, for each author, we apply our user-defined function \hl{ufn:coauthors()}
+in order to retrieve for this particular author the number of coauthors and
+the number of joint publications with each of them.\\
+
+In order to do so, the coauthors were defined as all the authors which
+participated in the same publications as the author currently being handled
+(see listing below).\\
+
+\begin{lstlisting}
+declare function ufn:coauthors($author, $author_publications) {
+    let $coauthors := fn:distinct-values($author_publications/author[. != $author])
+    let $nb_coauthors := fn:count($coauthors)
+    ...
+\end{lstlisting}
+\
+
+Finally, for each coauthor, we retrieved the number of publications in which
+both the author and the coauthor participated.\\
+
+\begin{lstlisting}
+for $coauth in $coauthors
+    let $common_publications := $author_publications[author = $coauth]
+    let $nb_common_publications := fn:count($common_publications)
+\end{lstlisting}
 
 \newpage
