@@ -1,0 +1,1968 @@
+<?xml version="1.0"?>
+<distances>
+  <distance author1="Gunter Saake" author2="Kai-Uwe Sattler" distance="1"/>
+  <distance author1="Gunter Saake" author2="Andreas Heuer" distance="1"/>
+  <distance author1="Kai-Uwe Sattler" author2="Andreas Heuer" distance="1"/>
+  <distance author1="Radu Prodan" author2="Thomas Fahringer" distance="1"/>
+  <distance author1="Sanghamitra Bandyopadhyay" author2="Santanu Santra" distance="1"/>
+  <distance author1="Sanghamitra Bandyopadhyay" author2="Ujjwal Maulik" distance="1"/>
+  <distance author1="Sanghamitra Bandyopadhyay" author2="Heinz M&#xFC;hlenbein" distance="1"/>
+  <distance author1="Sanghamitra Bandyopadhyay" author2="Anirban Mukhopadhyay" distance="1"/>
+  <distance author1="Santanu Santra" author2="Ujjwal Maulik" distance="1"/>
+  <distance author1="Santanu Santra" author2="Heinz M&#xFC;hlenbein" distance="1"/>
+  <distance author1="Santanu Santra" author2="Anirban Mukhopadhyay" distance="2"/>
+  <distance author1="Ujjwal Maulik" author2="Heinz M&#xFC;hlenbein" distance="1"/>
+  <distance author1="Ujjwal Maulik" author2="Anirban Mukhopadhyay" distance="1"/>
+  <distance author1="Sung-Bae Cho" author2="Han-Saem Park" distance="1"/>
+  <distance author1="Kalyanmoy Deb" author2="Abbadi Raji Reddy" distance="1"/>
+  <distance author1="Kalyanmoy Deb" author2="Shamik Chaudhuri" distance="1"/>
+  <distance author1="Abbadi Raji Reddy" author2="Shamik Chaudhuri" distance="1"/>
+  <distance author1="Jos&#xE9; E. Gallardo" author2="Carlos Cotta" distance="1"/>
+  <distance author1="Jos&#xE9; E. Gallardo" author2="Antonio J. Fern&#xE1;ndez" distance="1"/>
+  <distance author1="Carlos Cotta" author2="Antonio J. Fern&#xE1;ndez" distance="1"/>
+  <distance author1="Amit Konar" author2="Swagatam Das" distance="1"/>
+  <distance author1="Arun Krishnan" author2="Kuo-Bin Li" distance="1"/>
+  <distance author1="Nasimul Noman" author2="Hitoshi Iba" distance="1"/>
+  <distance author1="Gianluca Pollastri" author2="Davide Bau" distance="1"/>
+  <distance author1="Gianluca Pollastri" author2="Alessandro Vullo" distance="1"/>
+  <distance author1="Davide Bau" author2="Alessandro Vullo" distance="1"/>
+  <distance author1="Nripendra Lal Shrestha" author2="Takenao Ohkawa" distance="1"/>
+  <distance author1="Haixu Tang" author2="Sun Kim" distance="1"/>
+  <distance author1="Jason T. L. Wang" author2="Xiaoming Wu" distance="1"/>
+  <distance author1="Ankur Gupta" author2="Vaidyanathan K. Jayaraman" distance="1"/>
+  <distance author1="Ankur Gupta" author2="Bhaskar D. Kulkarni" distance="1"/>
+  <distance author1="Vaidyanathan K. Jayaraman" author2="Bhaskar D. Kulkarni" distance="1"/>
+  <distance author1="Wen-Shan Lin" author2="Ming-Fong Chen" distance="1"/>
+  <distance author1="Wen-Shan Lin" author2="Yan-Yan Chen" distance="1"/>
+  <distance author1="Ming-Fong Chen" author2="Yan-Yan Chen" distance="1"/>
+  <distance author1="C. Y. Ho" author2="Anthony Shi-Sheung Fong" distance="1"/>
+  <distance author1="Gin-Der Wu" author2="Pang-Hsuan Huang" distance="1"/>
+  <distance author1="Gin-Der Wu" author2="Zhen-Wei Zhu" distance="1"/>
+  <distance author1="Shui Yu" author2="Zhongwen Li" distance="1"/>
+  <distance author1="Iqbal Gondal" author2="Daryoush Habibi" distance="2"/>
+  <distance author1="Iqbal Gondal" author2="Iftekhar Ahmad" distance="2"/>
+  <distance author1="Iqbal Gondal" author2="Laurence S. Dooley" distance="1"/>
+  <distance author1="Iqbal Gondal" author2="Muhammad Shoaib B. Sehgal" distance="1"/>
+  <distance author1="Iqbal Gondal" author2="Joarder Kamruzzaman" distance="1"/>
+  <distance author1="Iqbal Gondal" author2="Kemeng Yang" distance="1"/>
+  <distance author1="Iqbal Gondal" author2="Bin Qiu" distance="1"/>
+  <distance author1="Iqbal Gondal" author2="Rakib Ahmed" distance="2"/>
+  <distance author1="Iqbal Gondal" author2="Megan Woods" distance="1"/>
+  <distance author1="Iqbal Gondal" author2="Mudassar Iqbal" distance="1"/>
+  <distance author1="Mudassar Iqbal" author2="Iftekhar Ahmad" distance="2"/>
+  <distance author1="Mudassar Iqbal" author2="Muhammad Shoaib B. Sehgal" distance="1"/>
+  <distance author1="Mudassar Iqbal" author2="Daryoush Habibi" distance="2"/>
+  <distance author1="Mudassar Iqbal" author2="Joarder Kamruzzaman" distance="1"/>
+  <distance author1="Mudassar Iqbal" author2="Megan Woods" distance="1"/>
+  <distance author1="Megan Woods" author2="Daryoush Habibi" distance="3"/>
+  <distance author1="Megan Woods" author2="Muhammad Shoaib B. Sehgal" distance="1"/>
+  <distance author1="Megan Woods" author2="Iftekhar Ahmad" distance="3"/>
+  <distance author1="Megan Woods" author2="Joarder Kamruzzaman" distance="2"/>
+  <distance author1="Muhammad Shoaib B. Sehgal" author2="Joarder Kamruzzaman" distance="1"/>
+  <distance author1="Muhammad Shoaib B. Sehgal" author2="Iftekhar Ahmad" distance="2"/>
+  <distance author1="Muhammad Shoaib B. Sehgal" author2="Daryoush Habibi" distance="2"/>
+  <distance author1="Nariaki Kato" author2="Naohiro Ishii" distance="1"/>
+  <distance author1="Tae-Hum Lim" author2="Sang-Uk Shin" distance="1"/>
+  <distance author1="Gongzhu Hu" author2="Ivan Milenkovic" distance="1"/>
+  <distance author1="Chien-Chuan Ko" author2="Bo-Zhi Yang" distance="1"/>
+  <distance author1="Sun Yang" author2="Tay Teng Tiow" distance="1"/>
+  <distance author1="Ferdous Ahmed Sohel" author2="Rakib Ahmed" distance="2"/>
+  <distance author1="Ferdous Ahmed Sohel" author2="Gour C. Karmakar" distance="1"/>
+  <distance author1="Ferdous Ahmed Sohel" author2="Laurence S. Dooley" distance="1"/>
+  <distance author1="Ferdous Ahmed Sohel" author2="Kemeng Yang" distance="2"/>
+  <distance author1="Ferdous Ahmed Sohel" author2="Bin Qiu" distance="2"/>
+  <distance author1="Gour C. Karmakar" author2="Kemeng Yang" distance="2"/>
+  <distance author1="Gour C. Karmakar" author2="Bin Qiu" distance="2"/>
+  <distance author1="Gour C. Karmakar" author2="Laurence S. Dooley" distance="1"/>
+  <distance author1="Gour C. Karmakar" author2="Rakib Ahmed" distance="1"/>
+  <distance author1="Laurence S. Dooley" author2="Kemeng Yang" distance="1"/>
+  <distance author1="Laurence S. Dooley" author2="Bin Qiu" distance="1"/>
+  <distance author1="Laurence S. Dooley" author2="Rakib Ahmed" distance="1"/>
+  <distance author1="Tam Phuong Cao" author2="John Devlin" distance="1"/>
+  <distance author1="Tam Phuong Cao" author2="Darrell M. Elton" distance="1"/>
+  <distance author1="Darrell M. Elton" author2="John Devlin" distance="1"/>
+  <distance author1="Li Yi" author2="Ji Hong" distance="1"/>
+  <distance author1="Jirawute Choungsirakulwit" author2="Daricha Sutivong" distance="1"/>
+  <distance author1="Grace W. Rumantir" author2="Jan Carlo Barca" distance="1"/>
+  <distance author1="Jeewani Anupama Ginige" author2="Seyed A. Shahrestani" distance="2"/>
+  <distance author1="Jeewani Anupama Ginige" author2="Uma Sirinivasan" distance="1"/>
+  <distance author1="Jeewani Anupama Ginige" author2="Athula Ginige" distance="1"/>
+  <distance author1="Jeewani Anupama Ginige" author2="Indra Seher" distance="2"/>
+  <distance author1="Athula Ginige" author2="Uma Sirinivasan" distance="1"/>
+  <distance author1="Athula Ginige" author2="Seyed A. Shahrestani" distance="1"/>
+  <distance author1="Athula Ginige" author2="Indra Seher" distance="1"/>
+  <distance author1="Mauritsius Tuga" author2="Alexandre Mendes" distance="1"/>
+  <distance author1="Mauritsius Tuga" author2="Regina Berretta" distance="1"/>
+  <distance author1="Regina Berretta" author2="Alexandre Mendes" distance="1"/>
+  <distance author1="Mike Tyson" author2="Carlo Kopp" distance="1"/>
+  <distance author1="Mohamed Shaarawy" author2="Ehab ElGindy" distance="1"/>
+  <distance author1="Mohamed Shaarawy" author2="Mohamed Belal" distance="1"/>
+  <distance author1="Mohamed Belal" author2="Ehab ElGindy" distance="1"/>
+  <distance author1="Yu-lung Lo" author2="Chun-Hsiung Wang" distance="1"/>
+  <distance author1="Heung Seok Chae" author2="Joon-Sang Lee" distance="1"/>
+  <distance author1="Heung Seok Chae" author2="Woo-Sung Jung" distance="1"/>
+  <distance author1="Heung Seok Chae" author2="Tae Yeon Kim" distance="1"/>
+  <distance author1="Tae Yeon Kim" author2="Woo-Sung Jung" distance="1"/>
+  <distance author1="Tae Yeon Kim" author2="Joon-Sang Lee" distance="1"/>
+  <distance author1="Woo-Sung Jung" author2="Joon-Sang Lee" distance="1"/>
+  <distance author1="Carol Pedersen" author2="Joachim Diederich" distance="1"/>
+  <distance author1="Mohan Ponnada" author2="Nalin Sharda" distance="1"/>
+  <distance author1="Yousof Erfani" author2="Mehdi Parviz" distance="1"/>
+  <distance author1="Yousof Erfani" author2="M. Shahram Moin" distance="1"/>
+  <distance author1="M. Shahram Moin" author2="Mehdi Parviz" distance="1"/>
+  <distance author1="Babak Pazand" author2="Chris McDonald" distance="1"/>
+  <distance author1="Abolfazl Toroghi Haghighat" author2="V. R. Mousavi" distance="1"/>
+  <distance author1="Abolfazl Toroghi Haghighat" author2="M. Esmaeili" distance="1"/>
+  <distance author1="Abolfazl Toroghi Haghighat" author2="A. Saremi" distance="1"/>
+  <distance author1="M. Esmaeili" author2="V. R. Mousavi" distance="1"/>
+  <distance author1="M. Esmaeili" author2="A. Saremi" distance="1"/>
+  <distance author1="A. Saremi" author2="V. R. Mousavi" distance="1"/>
+  <distance author1="Abdul Hafeez-Baig" author2="Shelly Grist" distance="1"/>
+  <distance author1="Abdul Hafeez-Baig" author2="Raj Gururajan" distance="1"/>
+  <distance author1="Shelly Grist" author2="Raj Gururajan" distance="1"/>
+  <distance author1="S. M. Kamrul Hasan" author2="David Cornforth" distance="1"/>
+  <distance author1="S. M. Kamrul Hasan" author2="Abu Saleh Shah Muhammad Barkat Ullah" distance="2"/>
+  <distance author1="S. M. Kamrul Hasan" author2="Ruhul A. Sarker" distance="1"/>
+  <distance author1="Ruhul A. Sarker" author2="David Cornforth" distance="1"/>
+  <distance author1="Ruhul A. Sarker" author2="Abu Saleh Shah Muhammad Barkat Ullah" distance="1"/>
+  <distance author1="David Cornforth" author2="Abu Saleh Shah Muhammad Barkat Ullah" distance="1"/>
+  <distance author1="Mieng Quoc Phu" author2="Peter E. Tischer" distance="1"/>
+  <distance author1="Mieng Quoc Phu" author2="Hon Ren Wu" distance="1"/>
+  <distance author1="Peter E. Tischer" author2="Hon Ren Wu" distance="1"/>
+  <distance author1="Eduardo Rodrigues Gomes" author2="Ryszard Kowalczyk" distance="1"/>
+  <distance author1="Eun-Ju Park" author2="Jinalben Patel" distance="2"/>
+  <distance author1="Eun-Ju Park" author2="Roger Y. Lee" distance="1"/>
+  <distance author1="Eun-Ju Park" author2="Haeng-Kon Kim" distance="1"/>
+  <distance author1="Haeng-Kon Kim" author2="Jinalben Patel" distance="1"/>
+  <distance author1="Haeng-Kon Kim" author2="Roger Y. Lee" distance="1"/>
+  <distance author1="Roger Y. Lee" author2="Jinalben Patel" distance="1"/>
+  <distance author1="Qiong Ren" author2="Willy Susilo" distance="1"/>
+  <distance author1="Qiong Ren" author2="Yi Mu" distance="1"/>
+  <distance author1="Yi Mu" author2="Willy Susilo" distance="1"/>
+  <distance author1="Gerhard Visser" author2="David L. Dowe" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Nazmul Haque" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Melissa Chen Yi Lim" distance="3"/>
+  <distance author1="Morshed U. Chowdhury" author2="Dengsheng Zhang" distance="2"/>
+  <distance author1="Morshed U. Chowdhury" author2="Atiqur Rahman" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="S. M. Raiyan Kabir" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Sherif M. Hashad" distance="2"/>
+  <distance author1="Morshed U. Chowdhury" author2="Sid Ray" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Howida Youssry Nafaa" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Robin Doss" distance="2"/>
+  <distance author1="Morshed U. Chowdhury" author2="Guojun Lu" distance="2"/>
+  <distance author1="Morshed U. Chowdhury" author2="Mohammed Anwer" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Ashley Chonka" distance="2"/>
+  <distance author1="Morshed U. Chowdhury" author2="Aliaa A. A. Youssif" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Alauddin Ahmed" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="John Casey" distance="2"/>
+  <distance author1="Morshed U. Chowdhury" author2="Atul Sajjanhar" distance="2"/>
+  <distance author1="Morshed U. Chowdhury" author2="Rezwanur Rahman" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Joydip Saha" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Md. Rafiqul Islam" distance="1"/>
+  <distance author1="Morshed U. Chowdhury" author2="Wanlei Zhou" distance="1"/>
+  <distance author1="Rezwanur Rahman" author2="S. M. Raiyan Kabir" distance="1"/>
+  <distance author1="Rezwanur Rahman" author2="Joydip Saha" distance="1"/>
+  <distance author1="Joydip Saha" author2="S. M. Raiyan Kabir" distance="1"/>
+  <distance author1="Dae Wan Cho" author2="Seunguk Oh" distance="1"/>
+  <distance author1="Dae Wan Cho" author2="Hyeon Soo Kim" distance="1"/>
+  <distance author1="Hyeon Soo Kim" author2="Seunguk Oh" distance="1"/>
+  <distance author1="Sunam Pradhan" author2="Arkady B. Zaslavsky" distance="1"/>
+  <distance author1="Prashan Premaratne" author2="Farzad Safaei" distance="1"/>
+  <distance author1="Atef Z. Ghalwash" author2="Howida Youssry Nafaa" distance="2"/>
+  <distance author1="Atef Z. Ghalwash" author2="Sherif M. Hashad" distance="1"/>
+  <distance author1="Atef Z. Ghalwash" author2="Aliaa A. A. Youssif" distance="1"/>
+  <distance author1="Atef Z. Ghalwash" author2="Robin Doss" distance="1"/>
+  <distance author1="Atef Z. Ghalwash" author2="Sid Ray" distance="2"/>
+  <distance author1="Aliaa A. A. Youssif" author2="Robin Doss" distance="1"/>
+  <distance author1="Aliaa A. A. Youssif" author2="Sherif M. Hashad" distance="1"/>
+  <distance author1="Aliaa A. A. Youssif" author2="Howida Youssry Nafaa" distance="1"/>
+  <distance author1="Aliaa A. A. Youssif" author2="Sid Ray" distance="1"/>
+  <distance author1="Sherif M. Hashad" author2="Robin Doss" distance="1"/>
+  <distance author1="Fenghui Ren" author2="Minjie Zhang" distance="1"/>
+  <distance author1="Fenghui Ren" author2="Quan Bai" distance="1"/>
+  <distance author1="Minjie Zhang" author2="Quan Bai" distance="1"/>
+  <distance author1="Md. Rafiqul Islam" author2="Melissa Chen Yi Lim" distance="3"/>
+  <distance author1="Md. Rafiqul Islam" author2="Dengsheng Zhang" distance="2"/>
+  <distance author1="Md. Rafiqul Islam" author2="Wanlei Zhou" distance="1"/>
+  <distance author1="Md. Rafiqul Islam" author2="Guojun Lu" distance="2"/>
+  <distance author1="Md. Rafiqul Islam" author2="Atul Sajjanhar" distance="2"/>
+  <distance author1="Md. Rafiqul Islam" author2="Ashley Chonka" distance="2"/>
+  <distance author1="Md. Rafiqul Islam" author2="John Casey" distance="2"/>
+  <distance author1="Wanlei Zhou" author2="Dengsheng Zhang" distance="1"/>
+  <distance author1="Wanlei Zhou" author2="John Casey" distance="1"/>
+  <distance author1="Wanlei Zhou" author2="Ashley Chonka" distance="1"/>
+  <distance author1="Wanlei Zhou" author2="Melissa Chen Yi Lim" distance="2"/>
+  <distance author1="Wanlei Zhou" author2="Atul Sajjanhar" distance="1"/>
+  <distance author1="Wanlei Zhou" author2="Guojun Lu" distance="1"/>
+  <distance author1="Faisal Sana" author2="Shakeel A. Khoja" distance="1"/>
+  <distance author1="Komsan Srivisut" author2="Pornsiri Muenchaisri" distance="1"/>
+  <distance author1="Roula Michaelides" author2="Dennis F. Kehoe" distance="1"/>
+  <distance author1="Cheng-Hsiung Hsieh" author2="Ting-Yu Feng" distance="1"/>
+  <distance author1="Cheng-Hsiung Hsieh" author2="Ren-Hsien Huang" distance="1"/>
+  <distance author1="Ting-Yu Feng" author2="Ren-Hsien Huang" distance="1"/>
+  <distance author1="Neeraj Nehra" author2="V. K. Bhat" distance="1"/>
+  <distance author1="Neeraj Nehra" author2="R. B. Patel" distance="1"/>
+  <distance author1="R. B. Patel" author2="V. K. Bhat" distance="1"/>
+  <distance author1="Lianzhang Zhu" author2="Yanchen Li" distance="1"/>
+  <distance author1="Tsung-Yu Liu" author2="Tan-Hsu Tan" distance="1"/>
+  <distance author1="Tsung-Yu Liu" author2="Yu-Ling Chu" distance="1"/>
+  <distance author1="Tan-Hsu Tan" author2="Yu-Ling Chu" distance="1"/>
+  <distance author1="Jizhong Zhao" author2="Yong Qi" distance="1"/>
+  <distance author1="Jizhong Zhao" author2="Saiyu Qi" distance="1"/>
+  <distance author1="Jizhong Zhao" author2="Min Xi" distance="1"/>
+  <distance author1="Min Xi" author2="Yong Qi" distance="1"/>
+  <distance author1="Min Xi" author2="Saiyu Qi" distance="1"/>
+  <distance author1="Yong Qi" author2="Saiyu Qi" distance="1"/>
+  <distance author1="Belal Chowdhury" author2="Rajiv Khosla" distance="1"/>
+  <distance author1="Xuemei Zhao" author2="Shaowen Qin" distance="1"/>
+  <distance author1="Xuemei Zhao" author2="Fangpo He" distance="1"/>
+  <distance author1="Xuemei Zhao" author2="Karl Sammut" distance="1"/>
+  <distance author1="Karl Sammut" author2="Shaowen Qin" distance="1"/>
+  <distance author1="Karl Sammut" author2="Fangpo He" distance="1"/>
+  <distance author1="Fangpo He" author2="Shaowen Qin" distance="1"/>
+  <distance author1="Zakaria Maamar" author2="Quan Z. Sheng" distance="1"/>
+  <distance author1="Zakaria Maamar" author2="Djamal Benslimane" distance="1"/>
+  <distance author1="Djamal Benslimane" author2="Quan Z. Sheng" distance="1"/>
+  <distance author1="A. B. M. Shawkat Ali" author2="Tony Dobele" distance="1"/>
+  <distance author1="A. B. M. Shawkat Ali" author2="M. Delowar Hossain" distance="1"/>
+  <distance author1="A. B. M. Shawkat Ali" author2="Yang Xiang" distance="1"/>
+  <distance author1="A. B. M. Shawkat Ali" author2="M. Mahbubur Rahman" distance="1"/>
+  <distance author1="Manoranjan Paul" author2="M. Manzur Murshed" distance="1"/>
+  <distance author1="Manoranjan Paul" author2="Golam Sorwar" distance="1"/>
+  <distance author1="Adriano Cavalcanti" author2="Julian Smith" distance="1"/>
+  <distance author1="Adriano Cavalcanti" author2="Declan Murphy" distance="1"/>
+  <distance author1="Adriano Cavalcanti" author2="Bijan Shirinzadeh" distance="1"/>
+  <distance author1="Bijan Shirinzadeh" author2="Julian Smith" distance="1"/>
+  <distance author1="Bijan Shirinzadeh" author2="Declan Murphy" distance="1"/>
+  <distance author1="Declan Murphy" author2="Julian Smith" distance="1"/>
+  <distance author1="Chinnu Subramaniam" author2="Yi-Ping Phoebe Chen" distance="1"/>
+  <distance author1="Chinnu Subramaniam" author2="Rob Law" distance="3"/>
+  <distance author1="Chinnu Subramaniam" author2="Gang Li" distance="2"/>
+  <distance author1="Chinnu Subramaniam" author2="Morshed Chowdhury" distance="2"/>
+  <distance author1="Chinnu Subramaniam" author2="Henry Mok" distance="4"/>
+  <distance author1="Chinnu Subramaniam" author2="Carey Goh" distance="4"/>
+  <distance author1="Chinnu Subramaniam" author2="Jiyuan An" distance="1"/>
+  <distance author1="Chinnu Subramaniam" author2="Jia Rong" distance="2"/>
+  <distance author1="Chinnu Subramaniam" author2="Tao Wu" distance="4"/>
+  <distance author1="Chinnu Subramaniam" author2="Jayavardhana Gubbi" distance="1"/>
+  <distance author1="Jiyuan An" author2="Carey Goh" distance="4"/>
+  <distance author1="Jiyuan An" author2="Gang Li" distance="2"/>
+  <distance author1="Jiyuan An" author2="Jayavardhana Gubbi" distance="1"/>
+  <distance author1="Jiyuan An" author2="Morshed Chowdhury" distance="2"/>
+  <distance author1="Jiyuan An" author2="Henry Mok" distance="4"/>
+  <distance author1="Jiyuan An" author2="Rob Law" distance="3"/>
+  <distance author1="Jiyuan An" author2="Yi-Ping Phoebe Chen" distance="1"/>
+  <distance author1="Jiyuan An" author2="Tao Wu" distance="4"/>
+  <distance author1="Jiyuan An" author2="Jia Rong" distance="2"/>
+  <distance author1="Jayavardhana Gubbi" author2="Henry Mok" distance="4"/>
+  <distance author1="Jayavardhana Gubbi" author2="Tao Wu" distance="4"/>
+  <distance author1="Jayavardhana Gubbi" author2="Morshed Chowdhury" distance="2"/>
+  <distance author1="Jayavardhana Gubbi" author2="Gang Li" distance="2"/>
+  <distance author1="Jayavardhana Gubbi" author2="Carey Goh" distance="4"/>
+  <distance author1="Jayavardhana Gubbi" author2="Yi-Ping Phoebe Chen" distance="1"/>
+  <distance author1="Jayavardhana Gubbi" author2="Rob Law" distance="3"/>
+  <distance author1="Jayavardhana Gubbi" author2="Jia Rong" distance="2"/>
+  <distance author1="Yi-Ping Phoebe Chen" author2="Henry Mok" distance="3"/>
+  <distance author1="Yi-Ping Phoebe Chen" author2="Morshed Chowdhury" distance="1"/>
+  <distance author1="Yi-Ping Phoebe Chen" author2="Tao Wu" distance="3"/>
+  <distance author1="Yi-Ping Phoebe Chen" author2="Rob Law" distance="2"/>
+  <distance author1="Yi-Ping Phoebe Chen" author2="Carey Goh" distance="3"/>
+  <distance author1="Yi-Ping Phoebe Chen" author2="Gang Li" distance="1"/>
+  <distance author1="Yi-Ping Phoebe Chen" author2="Jia Rong" distance="1"/>
+  <distance author1="M. Amiripour" author2="H. Abachi" distance="1"/>
+  <distance author1="Ickjai Lee" author2="Bayani Portier" distance="1"/>
+  <distance author1="Ickjai Lee" author2="Kyungmi Lee" distance="1"/>
+  <distance author1="Suriya Kaewarsa" author2="Thanatchai Kulworawanichpong" distance="1"/>
+  <distance author1="Suriya Kaewarsa" author2="Kitti Attakitmongcol" distance="1"/>
+  <distance author1="Kitti Attakitmongcol" author2="Thanatchai Kulworawanichpong" distance="1"/>
+  <distance author1="Robert Mattson" author2="Somnath Ghosh" distance="1"/>
+  <distance author1="Yiling Wang" author2="Phu Dung Le" distance="1"/>
+  <distance author1="Yiling Wang" author2="Balasubramaniam Srinivasan" distance="1"/>
+  <distance author1="Phu Dung Le" author2="Balasubramaniam Srinivasan" distance="1"/>
+  <distance author1="Tokuro Matsuo" author2="Takayuki Fujimoto" distance="1"/>
+  <distance author1="Eun Seok Jeong" author2="Kyung Hyune Rhee" distance="1"/>
+  <distance author1="Eun Seok Jeong" author2="Chul Sur" distance="1"/>
+  <distance author1="Chul Sur" author2="Kyung Hyune Rhee" distance="1"/>
+  <distance author1="Cong-Kha Pham" author2="Koutaro Yamano" distance="1"/>
+  <distance author1="Yantao Guo" author2="Zhiqing Zhang" distance="1"/>
+  <distance author1="Yantao Guo" author2="Zengji Liu" distance="1"/>
+  <distance author1="Yantao Guo" author2="Aijun Wen" distance="1"/>
+  <distance author1="Aijun Wen" author2="Zhiqing Zhang" distance="1"/>
+  <distance author1="Aijun Wen" author2="Zengji Liu" distance="1"/>
+  <distance author1="Zengji Liu" author2="Zhiqing Zhang" distance="1"/>
+  <distance author1="Weiqun Zheng" author2="Gary A. Bundell" distance="1"/>
+  <distance author1="H. Yu" author2="B. Chu" distance="1"/>
+  <distance author1="H. Yu" author2="S. Providence" distance="1"/>
+  <distance author1="H. Yu" author2="D. Gu" distance="1"/>
+  <distance author1="H. Yu" author2="X. Yuan" distance="1"/>
+  <distance author1="H. Yu" author2="J. Xu" distance="1"/>
+  <distance author1="X. Yuan" author2="D. Gu" distance="1"/>
+  <distance author1="X. Yuan" author2="S. Providence" distance="1"/>
+  <distance author1="X. Yuan" author2="B. Chu" distance="1"/>
+  <distance author1="X. Yuan" author2="J. Xu" distance="1"/>
+  <distance author1="J. Xu" author2="D. Gu" distance="1"/>
+  <distance author1="J. Xu" author2="S. Providence" distance="1"/>
+  <distance author1="J. Xu" author2="B. Chu" distance="1"/>
+  <distance author1="S. Providence" author2="D. Gu" distance="1"/>
+  <distance author1="S. Providence" author2="B. Chu" distance="1"/>
+  <distance author1="B. Chu" author2="D. Gu" distance="1"/>
+  <distance author1="John Casey" author2="Ashley Chonka" distance="1"/>
+  <distance author1="Oluwafemi Ajayi" author2="Richard O. Sinnott" distance="1"/>
+  <distance author1="Oluwafemi Ajayi" author2="Anthony Stell" distance="1"/>
+  <distance author1="Richard O. Sinnott" author2="Anthony Stell" distance="1"/>
+  <distance author1="Wenying Feng" author2="Hua Chen" distance="1"/>
+  <distance author1="Ahadur Rahaman" author2="Michael Hobbs" distance="1"/>
+  <distance author1="Ahadur Rahaman" author2="Soon-Keow Chong" distance="2"/>
+  <distance author1="Ahadur Rahaman" author2="Robert A. Dew" distance="2"/>
+  <distance author1="Ahadur Rahaman" author2="Jemal H. Abawajy" distance="1"/>
+  <distance author1="Jemal H. Abawajy" author2="Robert A. Dew" distance="1"/>
+  <distance author1="Jemal H. Abawajy" author2="Michael Hobbs" distance="1"/>
+  <distance author1="Jemal H. Abawajy" author2="Soon-Keow Chong" distance="1"/>
+  <distance author1="Gang Chen" author2="Zeyu Chen" distance="1"/>
+  <distance author1="Gang Chen" author2="Jiajun Wang" distance="1"/>
+  <distance author1="Gang Chen" author2="Ruimin Shen" distance="1"/>
+  <distance author1="Ruimin Shen" author2="Jiajun Wang" distance="1"/>
+  <distance author1="Ruimin Shen" author2="Zeyu Chen" distance="1"/>
+  <distance author1="Jiajun Wang" author2="Zeyu Chen" distance="1"/>
+  <distance author1="Zhou Wei" author2="Wang Zengfu" distance="1"/>
+  <distance author1="Luke Bellamy" author2="Damien Hutchinson" distance="1"/>
+  <distance author1="Luke Bellamy" author2="Jason Wells" distance="1"/>
+  <distance author1="Damien Hutchinson" author2="Jason Wells" distance="1"/>
+  <distance author1="Atul Sajjanhar" author2="Dengsheng Zhang" distance="1"/>
+  <distance author1="Atul Sajjanhar" author2="Guojun Lu" distance="1"/>
+  <distance author1="Atul Sajjanhar" author2="Melissa Chen Yi Lim" distance="2"/>
+  <distance author1="Guojun Lu" author2="Dengsheng Zhang" distance="1"/>
+  <distance author1="Guojun Lu" author2="Melissa Chen Yi Lim" distance="2"/>
+  <distance author1="Dengsheng Zhang" author2="Melissa Chen Yi Lim" distance="1"/>
+  <distance author1="Phamorn Vantakavikran" author2="Nakornthip Prompoon" distance="1"/>
+  <distance author1="Jing He" author2="Guangyan Huang" distance="1"/>
+  <distance author1="Jing He" author2="Yong Shi" distance="1"/>
+  <distance author1="Jing He" author2="Yanchun Zhang" distance="1"/>
+  <distance author1="Yanchun Zhang" author2="Yong Shi" distance="1"/>
+  <distance author1="Yanchun Zhang" author2="Guangyan Huang" distance="1"/>
+  <distance author1="Guangyan Huang" author2="Yong Shi" distance="1"/>
+  <distance author1="Omar Khadeer Hussain" author2="Alex Talevski" distance="2"/>
+  <distance author1="Omar Khadeer Hussain" author2="Tharam S. Dillon" distance="1"/>
+  <distance author1="Omar Khadeer Hussain" author2="Farookh Khadeer Hussain" distance="1"/>
+  <distance author1="Omar Khadeer Hussain" author2="Guo Fang Mao" distance="2"/>
+  <distance author1="Omar Khadeer Hussain" author2="Elizabeth Chang" distance="1"/>
+  <distance author1="Elizabeth Chang" author2="Tharam S. Dillon" distance="1"/>
+  <distance author1="Elizabeth Chang" author2="Guo Fang Mao" distance="1"/>
+  <distance author1="Elizabeth Chang" author2="Farookh Khadeer Hussain" distance="1"/>
+  <distance author1="Elizabeth Chang" author2="Alex Talevski" distance="1"/>
+  <distance author1="Farookh Khadeer Hussain" author2="Tharam S. Dillon" distance="1"/>
+  <distance author1="Bager Zarei" author2="M. R. Meybodi" distance="1"/>
+  <distance author1="Bager Zarei" author2="Mortaza Abbaszadeh Meinagh" distance="1"/>
+  <distance author1="M. R. Meybodi" author2="Mortaza Abbaszadeh Meinagh" distance="1"/>
+  <distance author1="Kostadin Kratchanov" author2="Emilia Golemanova" distance="1"/>
+  <distance author1="Kostadin Kratchanov" author2="Tzanko Golemanov" distance="1"/>
+  <distance author1="Tzanko Golemanov" author2="Emilia Golemanova" distance="1"/>
+  <distance author1="Sajad Shirali-Shahreza" author2="Ali Movaghar" distance="1"/>
+  <distance author1="Sajad Shirali-Shahreza" author2="Mohammad Shirali-Shahreza" distance="1"/>
+  <distance author1="Mohammad Shirali-Shahreza" author2="Ali Movaghar" distance="1"/>
+  <distance author1="Kemeng Yang" author2="Bin Qiu" distance="1"/>
+  <distance author1="Paola Flocchini" author2="Arno Schulz" distance="1"/>
+  <distance author1="Paola Flocchini" author2="Amiya Nayak" distance="1"/>
+  <distance author1="Amiya Nayak" author2="Arno Schulz" distance="1"/>
+  <distance author1="Kenneth Patrick Payne" author2="Joarder Kamruzzman" distance="1"/>
+  <distance author1="Jayamsakthi Shanmugam" author2="M. Ponnavaikko" distance="1"/>
+  <distance author1="Ping Han" author2="Yanqin Zhu" distance="1"/>
+  <distance author1="Ping Han" author2="Yuemei Hu" distance="1"/>
+  <distance author1="Yanqin Zhu" author2="Yuemei Hu" distance="1"/>
+  <distance author1="Dussadee Praserttitipong" author2="Peraphon Sophatsathit" distance="1"/>
+  <distance author1="Gunwoo Kim" author2="Hyewon Seo" distance="1"/>
+  <distance author1="Gunwoo Kim" author2="Yan Wang" distance="1"/>
+  <distance author1="Yan Wang" author2="Hyewon Seo" distance="1"/>
+  <distance author1="Guo Fang Mao" author2="Alex Talevski" distance="1"/>
+  <distance author1="L. R. Foulds" author2="M. West" distance="1"/>
+  <distance author1="L. R. Foulds" author2="Mohammed Quaddus" distance="1"/>
+  <distance author1="Mohammed Quaddus" author2="M. West" distance="1"/>
+  <distance author1="Hu Zhang" author2="Depei Qian" distance="1"/>
+  <distance author1="Hu Zhang" author2="Weiguo Wu" distance="1"/>
+  <distance author1="Hu Zhang" author2="Luogeng Dai" distance="1"/>
+  <distance author1="Hu Zhang" author2="Xiaoshe Dong" distance="1"/>
+  <distance author1="Weiguo Wu" author2="Luogeng Dai" distance="1"/>
+  <distance author1="Weiguo Wu" author2="Xiaoshe Dong" distance="1"/>
+  <distance author1="Weiguo Wu" author2="Depei Qian" distance="1"/>
+  <distance author1="Xiaoshe Dong" author2="Luogeng Dai" distance="1"/>
+  <distance author1="Xiaoshe Dong" author2="Depei Qian" distance="1"/>
+  <distance author1="Depei Qian" author2="Luogeng Dai" distance="1"/>
+  <distance author1="Ru Nie" author2="Jianhua Yue" distance="1"/>
+  <distance author1="Yonghee You" author2="Mee Young Sung" distance="1"/>
+  <distance author1="Yonghee You" author2="Kyungkoo Jun" distance="1"/>
+  <distance author1="Mee Young Sung" author2="Kyungkoo Jun" distance="1"/>
+  <distance author1="Jun Han" author2="Xian Li" distance="1"/>
+  <distance author1="Jun Han" author2="Xiaoxuan Ma" distance="1"/>
+  <distance author1="Jun Han" author2="Xuelian Lin" distance="1"/>
+  <distance author1="Jun Han" author2="Jinpeng Huai" distance="1"/>
+  <distance author1="Jun Han" author2="Xudong Liu" distance="1"/>
+  <distance author1="Jun Han" author2="Zhaohao Sun" distance="1"/>
+  <distance author1="Zhaohao Sun" author2="Xiaoxuan Ma" distance="2"/>
+  <distance author1="Zhaohao Sun" author2="Xudong Liu" distance="2"/>
+  <distance author1="Zhaohao Sun" author2="Xuelian Lin" distance="2"/>
+  <distance author1="Zhaohao Sun" author2="Jinpeng Huai" distance="1"/>
+  <distance author1="Zhaohao Sun" author2="Xian Li" distance="1"/>
+  <distance author1="Jinpeng Huai" author2="Xiaoxuan Ma" distance="1"/>
+  <distance author1="Jinpeng Huai" author2="Xuelian Lin" distance="1"/>
+  <distance author1="Jinpeng Huai" author2="Xudong Liu" distance="1"/>
+  <distance author1="Jinpeng Huai" author2="Xian Li" distance="1"/>
+  <distance author1="Xian Li" author2="Xuelian Lin" distance="1"/>
+  <distance author1="Xian Li" author2="Xudong Liu" distance="1"/>
+  <distance author1="Xian Li" author2="Xiaoxuan Ma" distance="1"/>
+  <distance author1="M. Mahbubur Rahman" author2="M. Delowar Hossain" distance="1"/>
+  <distance author1="Ross Eldridge" author2="Peter H. Wilson" distance="1"/>
+  <distance author1="Ross Eldridge" author2="Jonathan Duckworth" distance="1"/>
+  <distance author1="Ross Eldridge" author2="Heiko Rudolph" distance="1"/>
+  <distance author1="Heiko Rudolph" author2="Jonathan Duckworth" distance="1"/>
+  <distance author1="Heiko Rudolph" author2="Peter H. Wilson" distance="1"/>
+  <distance author1="Jonathan Duckworth" author2="Peter H. Wilson" distance="1"/>
+  <distance author1="Shangping Dai" author2="Changwu Zhu" distance="1"/>
+  <distance author1="Shangping Dai" author2="Qiang Zhu" distance="1"/>
+  <distance author1="Shangping Dai" author2="Li Gao" distance="1"/>
+  <distance author1="Li Gao" author2="Changwu Zhu" distance="1"/>
+  <distance author1="Li Gao" author2="Qiang Zhu" distance="1"/>
+  <distance author1="Qiang Zhu" author2="Changwu Zhu" distance="1"/>
+  <distance author1="Andrew Skabar" author2="Narendra Juneja" distance="1"/>
+  <distance author1="Joarder Kamruzzaman" author2="Daryoush Habibi" distance="1"/>
+  <distance author1="Joarder Kamruzzaman" author2="Iftekhar Ahmad" distance="1"/>
+  <distance author1="Gita Das" author2="Howida Youssry Nafaa" distance="2"/>
+  <distance author1="Gita Das" author2="Sid Ray" distance="1"/>
+  <distance author1="Sid Ray" author2="Howida Youssry Nafaa" distance="1"/>
+  <distance author1="K. Sithitavorn" author2="C. Wilson" distance="1"/>
+  <distance author1="K. Sithitavorn" author2="B. Qiu" distance="1"/>
+  <distance author1="C. Wilson" author2="B. Qiu" distance="1"/>
+  <distance author1="David Kang" author2="Jonathan Liu" distance="2"/>
+  <distance author1="David Kang" author2="Wei Dai" distance="1"/>
+  <distance author1="Wei Dai" author2="Jonathan Liu" distance="1"/>
+  <distance author1="Shawn Haggett" author2="Graham Bignell" distance="1"/>
+  <distance author1="Shawn Haggett" author2="Greg Knowles" distance="1"/>
+  <distance author1="Greg Knowles" author2="Graham Bignell" distance="1"/>
+  <distance author1="M. H. Peyravi" author2="P. Khosraviyan Dehkordi" distance="1"/>
+  <distance author1="M. H. Peyravi" author2="Z. Davari Nejad" distance="1"/>
+  <distance author1="P. Khosraviyan Dehkordi" author2="Z. Davari Nejad" distance="1"/>
+  <distance author1="Ramesh Ram" author2="Madhu Chetty" distance="1"/>
+  <distance author1="Seungyeon You" author2="Sungchun Kim" distance="1"/>
+  <distance author1="Theodore Van Toll III" author2="Roger Lee" distance="1"/>
+  <distance author1="Theodore Van Toll III" author2="Tom Ahlswede" distance="1"/>
+  <distance author1="Roger Lee" author2="Tom Ahlswede" distance="1"/>
+  <distance author1="Anies Hannawati Purnamadjaja" author2="R. Andrew Russell" distance="1"/>
+  <distance author1="Anies Hannawati Purnamadjaja" author2="Johan Iskandar" distance="1"/>
+  <distance author1="Johan Iskandar" author2="R. Andrew Russell" distance="1"/>
+  <distance author1="ChunZhi Xie" author2="Hong Peng" distance="2"/>
+  <distance author1="ChunZhi Xie" author2="Liangzhong Yi" distance="1"/>
+  <distance author1="ChunZhi Xie" author2="Jun Li" distance="2"/>
+  <distance author1="ChunZhi Xie" author2="Zheng Pei" distance="1"/>
+  <distance author1="ChunZhi Xie" author2="Yajun Du" distance="1"/>
+  <distance author1="Liangzhong Yi" author2="Hong Peng" distance="2"/>
+  <distance author1="Liangzhong Yi" author2="Zheng Pei" distance="1"/>
+  <distance author1="Liangzhong Yi" author2="Jun Li" distance="2"/>
+  <distance author1="Liangzhong Yi" author2="Yajun Du" distance="1"/>
+  <distance author1="Yajun Du" author2="Hong Peng" distance="2"/>
+  <distance author1="Yajun Du" author2="Jun Li" distance="2"/>
+  <distance author1="Yajun Du" author2="Zheng Pei" distance="1"/>
+  <distance author1="Zheng Pei" author2="Jun Li" distance="1"/>
+  <distance author1="Zheng Pei" author2="Hong Peng" distance="1"/>
+  <distance author1="Ranadhir Ghosh" author2="Wei Xie" distance="2"/>
+  <distance author1="Ranadhir Ghosh" author2="Musa A. Mammadov" distance="2"/>
+  <distance author1="Ranadhir Ghosh" author2="Subhasis Mukherjee" distance="1"/>
+  <distance author1="Ranadhir Ghosh" author2="John Yearwood" distance="1"/>
+  <distance author1="Ranadhir Ghosh" author2="Md. Shamsul Huda" distance="1"/>
+  <distance author1="Ranadhir Ghosh" author2="Adil M. Bagirov" distance="2"/>
+  <distance author1="Ranadhir Ghosh" author2="Sol Hart" distance="2"/>
+  <distance author1="Ranadhir Ghosh" author2="Moumita Ghosh" distance="1"/>
+  <distance author1="Moumita Ghosh" author2="Subhasis Mukherjee" distance="1"/>
+  <distance author1="Moumita Ghosh" author2="Md. Shamsul Huda" distance="2"/>
+  <distance author1="Moumita Ghosh" author2="Musa A. Mammadov" distance="2"/>
+  <distance author1="Moumita Ghosh" author2="Adil M. Bagirov" distance="2"/>
+  <distance author1="Moumita Ghosh" author2="Wei Xie" distance="2"/>
+  <distance author1="Moumita Ghosh" author2="John Yearwood" distance="1"/>
+  <distance author1="Moumita Ghosh" author2="Sol Hart" distance="2"/>
+  <distance author1="John Yearwood" author2="Adil M. Bagirov" distance="1"/>
+  <distance author1="John Yearwood" author2="Musa A. Mammadov" distance="1"/>
+  <distance author1="John Yearwood" author2="Md. Shamsul Huda" distance="1"/>
+  <distance author1="John Yearwood" author2="Sol Hart" distance="1"/>
+  <distance author1="John Yearwood" author2="Subhasis Mukherjee" distance="1"/>
+  <distance author1="John Yearwood" author2="Wei Xie" distance="1"/>
+  <distance author1="Giuseppe Vella" author2="Antonio Gentile" distance="1"/>
+  <distance author1="Giuseppe Vella" author2="Antonella Santangelo" distance="1"/>
+  <distance author1="Giuseppe Vella" author2="Nunzio Ingraffia" distance="1"/>
+  <distance author1="Giuseppe Vella" author2="Marilia Liotta" distance="1"/>
+  <distance author1="Nunzio Ingraffia" author2="Antonio Gentile" distance="1"/>
+  <distance author1="Nunzio Ingraffia" author2="Antonella Santangelo" distance="1"/>
+  <distance author1="Nunzio Ingraffia" author2="Marilia Liotta" distance="1"/>
+  <distance author1="Marilia Liotta" author2="Antonio Gentile" distance="1"/>
+  <distance author1="Marilia Liotta" author2="Antonella Santangelo" distance="1"/>
+  <distance author1="Antonella Santangelo" author2="Antonio Gentile" distance="1"/>
+  <distance author1="Tomoya Kobayashi" author2="Naoki Itou" distance="2"/>
+  <distance author1="Tomoya Kobayashi" author2="Kazushi Nishimoto" distance="1"/>
+  <distance author1="Kazushi Nishimoto" author2="Naoki Itou" distance="1"/>
+  <distance author1="Abbas Golestani" author2="Ali Amiri" distance="1"/>
+  <distance author1="Abbas Golestani" author2="Mohammad R. Jahed" distance="1"/>
+  <distance author1="Abbas Golestani" author2="Kushan Ahmadian" distance="1"/>
+  <distance author1="Abbas Golestani" author2="Morteza Analoui" distance="1"/>
+  <distance author1="Abbas Golestani" author2="Mohammad-Reza JahedMotlagh" distance="1"/>
+  <distance author1="Kushan Ahmadian" author2="Ali Amiri" distance="1"/>
+  <distance author1="Kushan Ahmadian" author2="Mohammad-Reza JahedMotlagh" distance="1"/>
+  <distance author1="Kushan Ahmadian" author2="Morteza Analoui" distance="1"/>
+  <distance author1="Kushan Ahmadian" author2="Mohammad R. Jahed" distance="1"/>
+  <distance author1="Ali Amiri" author2="Mohammad-Reza JahedMotlagh" distance="1"/>
+  <distance author1="Yang Xu" author2="Youwei Xu" distance="1"/>
+  <distance author1="Yang Xu" author2="Zukai Tang" distance="1"/>
+  <distance author1="Yang Xu" author2="Shengqun Tang" distance="1"/>
+  <distance author1="Shengqun Tang" author2="Zukai Tang" distance="1"/>
+  <distance author1="Shengqun Tang" author2="Youwei Xu" distance="1"/>
+  <distance author1="Youwei Xu" author2="Zukai Tang" distance="1"/>
+  <distance author1="Xudong Liu" author2="Xuelian Lin" distance="1"/>
+  <distance author1="Xudong Liu" author2="Xiaoxuan Ma" distance="1"/>
+  <distance author1="Xuelian Lin" author2="Xiaoxuan Ma" distance="1"/>
+  <distance author1="Helyane Bronoski Borges" author2="J&#xFA;lio C. Nievola" distance="1"/>
+  <distance author1="Suhaimi Bin Abd Latif" author2="F. Alam" distance="1"/>
+  <distance author1="Suhaimi Bin Abd Latif" author2="M. A. Rashid" distance="1"/>
+  <distance author1="M. A. Rashid" author2="F. Alam" distance="1"/>
+  <distance author1="Manish Chhabra" author2="Hongen Lu" distance="1"/>
+  <distance author1="Soon-Keow Chong" author2="Robert A. Dew" distance="1"/>
+  <distance author1="Bei-tseng Chu" author2="Huiming Yu" distance="1"/>
+  <distance author1="Bei-tseng Chu" author2="Ashika Young" distance="1"/>
+  <distance author1="Bei-tseng Chu" author2="Richard Kelly" distance="1"/>
+  <distance author1="Bei-tseng Chu" author2="James Deese" distance="1"/>
+  <distance author1="Bei-tseng Chu" author2="Gail-Joon Ahn" distance="1"/>
+  <distance author1="Bei-tseng Chu" author2="Steven Blanchard" distance="1"/>
+  <distance author1="Gail-Joon Ahn" author2="Steven Blanchard" distance="1"/>
+  <distance author1="Gail-Joon Ahn" author2="Ashika Young" distance="1"/>
+  <distance author1="Gail-Joon Ahn" author2="Richard Kelly" distance="1"/>
+  <distance author1="Gail-Joon Ahn" author2="Huiming Yu" distance="1"/>
+  <distance author1="Gail-Joon Ahn" author2="James Deese" distance="1"/>
+  <distance author1="Steven Blanchard" author2="Ashika Young" distance="1"/>
+  <distance author1="Steven Blanchard" author2="Huiming Yu" distance="1"/>
+  <distance author1="Steven Blanchard" author2="Richard Kelly" distance="1"/>
+  <distance author1="Steven Blanchard" author2="James Deese" distance="1"/>
+  <distance author1="James Deese" author2="Ashika Young" distance="1"/>
+  <distance author1="James Deese" author2="Richard Kelly" distance="1"/>
+  <distance author1="James Deese" author2="Huiming Yu" distance="1"/>
+  <distance author1="Richard Kelly" author2="Ashika Young" distance="1"/>
+  <distance author1="Richard Kelly" author2="Huiming Yu" distance="1"/>
+  <distance author1="Huiming Yu" author2="Ashika Young" distance="1"/>
+  <distance author1="Hyunja Lee" author2="Junho Shim" distance="1"/>
+  <distance author1="Stephen Drape" author2="Anirban Majumdar" distance="1"/>
+  <distance author1="Stephen Drape" author2="Clark D. Thomborson" distance="1"/>
+  <distance author1="Anirban Majumdar" author2="Clark D. Thomborson" distance="1"/>
+  <distance author1="Daewook Lee" author2="SeungHoon Yang" distance="1"/>
+  <distance author1="Daewook Lee" author2="Sukho Lee" distance="1"/>
+  <distance author1="Daewook Lee" author2="Joonho Kwon" distance="1"/>
+  <distance author1="Joonho Kwon" author2="SeungHoon Yang" distance="1"/>
+  <distance author1="Joonho Kwon" author2="Sukho Lee" distance="1"/>
+  <distance author1="SeungHoon Yang" author2="Sukho Lee" distance="1"/>
+  <distance author1="Nazar M. Zaki" author2="Safaai Deris" distance="1"/>
+  <distance author1="Nazar M. Zaki" author2="Saleh Alwahaishi" distance="1"/>
+  <distance author1="Safaai Deris" author2="Saleh Alwahaishi" distance="1"/>
+  <distance author1="Wenxiong Kang" author2="Feiqi Deng" distance="1"/>
+  <distance author1="Jun Li" author2="Hong Peng" distance="1"/>
+  <distance author1="Madasu Hanmandlu" author2="A. V. Nath" distance="1"/>
+  <distance author1="Madasu Hanmandlu" author2="A. C. Mishra" distance="1"/>
+  <distance author1="Madasu Hanmandlu" author2="Vamsi Krishna Madasu" distance="1"/>
+  <distance author1="A. V. Nath" author2="Vamsi Krishna Madasu" distance="1"/>
+  <distance author1="A. V. Nath" author2="A. C. Mishra" distance="1"/>
+  <distance author1="A. C. Mishra" author2="Vamsi Krishna Madasu" distance="1"/>
+  <distance author1="Sol Hart" author2="Adil M. Bagirov" distance="1"/>
+  <distance author1="Lau Cheuk Lung" author2="Joni da Silva Fraga" distance="1"/>
+  <distance author1="Wei Xie" author2="Musa A. Mammadov" distance="1"/>
+  <distance author1="Indra Seher" author2="Seyed A. Shahrestani" distance="1"/>
+  <distance author1="Samar Zutshi" author2="Bala Srinivasan" distance="1"/>
+  <distance author1="Samar Zutshi" author2="Campbell Wilson" distance="1"/>
+  <distance author1="Campbell Wilson" author2="Bala Srinivasan" distance="1"/>
+  <distance author1="Hu Wang" author2="Chunqiang Gong" distance="1"/>
+  <distance author1="Hu Wang" author2="Yan Li" distance="1"/>
+  <distance author1="Chunqiang Gong" author2="Yan Li" distance="1"/>
+  <distance author1="Abdusalam F. A. Nwesri" author2="Seyed M. M. Tahaghoghi" distance="1"/>
+  <distance author1="Abdusalam F. A. Nwesri" author2="Falk Scholer" distance="1"/>
+  <distance author1="Seyed M. M. Tahaghoghi" author2="Falk Scholer" distance="1"/>
+  <distance author1="Sean Thompson" author2="Purva Joshi" distance="1"/>
+  <distance author1="Sean Thompson" author2="Torab Torabi" distance="1"/>
+  <distance author1="Torab Torabi" author2="Purva Joshi" distance="1"/>
+  <distance author1="Sarmad Sadik" author2="Hafiz Farooq Ahmad" distance="1"/>
+  <distance author1="Sarmad Sadik" author2="Hiroki Suguri" distance="1"/>
+  <distance author1="Sarmad Sadik" author2="Arshad Ali" distance="1"/>
+  <distance author1="Arshad Ali" author2="Hiroki Suguri" distance="1"/>
+  <distance author1="Arshad Ali" author2="Hafiz Farooq Ahmad" distance="1"/>
+  <distance author1="Hafiz Farooq Ahmad" author2="Hiroki Suguri" distance="1"/>
+  <distance author1="Zhikun Zhao" author2="Wei Li" distance="1"/>
+  <distance author1="B. Srikanth" author2="N. Siddharth" distance="1"/>
+  <distance author1="B. Srikanth" author2="Sudip Sanyal" distance="1"/>
+  <distance author1="B. Srikanth" author2="D. Kirubakaran" distance="1"/>
+  <distance author1="D. Kirubakaran" author2="Sudip Sanyal" distance="1"/>
+  <distance author1="D. Kirubakaran" author2="N. Siddharth" distance="1"/>
+  <distance author1="N. Siddharth" author2="Sudip Sanyal" distance="1"/>
+  <distance author1="Shaochun Xu" author2="Yufeng Gui" distance="1"/>
+  <distance author1="Shaochun Xu" author2="Zendi Cui" distance="1"/>
+  <distance author1="Zendi Cui" author2="Yufeng Gui" distance="1"/>
+  <distance author1="Dawei Jia" author2="Penelope Goward" distance="1"/>
+  <distance author1="Dawei Jia" author2="Jim Eales" distance="1"/>
+  <distance author1="Dawei Jia" author2="Kathy Blashki" distance="1"/>
+  <distance author1="Kathy Blashki" author2="Penelope Goward" distance="1"/>
+  <distance author1="Kathy Blashki" author2="Jim Eales" distance="1"/>
+  <distance author1="Penelope Goward" author2="Jim Eales" distance="1"/>
+  <distance author1="Lin Zou" author2="Zhongwei Zhang" distance="1"/>
+  <distance author1="Zhitang Li" author2="Dong Li" distance="1"/>
+  <distance author1="Zhitang Li" author2="Li Wang" distance="1"/>
+  <distance author1="Zhitang Li" author2="Shudong Shi" distance="1"/>
+  <distance author1="Zhitang Li" author2="Aifang Zhang" distance="1"/>
+  <distance author1="Shirantha Wijesekera" author2="Bala Balachandran" distance="1"/>
+  <distance author1="Shirantha Wijesekera" author2="Sajal Palit" distance="1"/>
+  <distance author1="Sajal Palit" author2="Bala Balachandran" distance="1"/>
+  <distance author1="Christopher J. Page" author2="Syed Mahfuzul Aziz" distance="1"/>
+  <distance author1="Chen-Yang Cheng" author2="Vittal Prabhu" distance="1"/>
+  <distance author1="Chensheng Sun" author2="Kin-Man Lam" distance="1"/>
+  <distance author1="Jia Rong" author2="Carey Goh" distance="3"/>
+  <distance author1="Jia Rong" author2="Rob Law" distance="2"/>
+  <distance author1="Jia Rong" author2="Tao Wu" distance="3"/>
+  <distance author1="Jia Rong" author2="Henry Mok" distance="3"/>
+  <distance author1="Jia Rong" author2="Morshed Chowdhury" distance="1"/>
+  <distance author1="Jia Rong" author2="Gang Li" distance="1"/>
+  <distance author1="Morshed Chowdhury" author2="Henry Mok" distance="3"/>
+  <distance author1="Morshed Chowdhury" author2="Carey Goh" distance="3"/>
+  <distance author1="Morshed Chowdhury" author2="Tao Wu" distance="3"/>
+  <distance author1="Morshed Chowdhury" author2="Rob Law" distance="2"/>
+  <distance author1="Morshed Chowdhury" author2="Gang Li" distance="1"/>
+  <distance author1="Gang Li" author2="Carey Goh" distance="2"/>
+  <distance author1="Gang Li" author2="Henry Mok" distance="2"/>
+  <distance author1="Gang Li" author2="Rob Law" distance="1"/>
+  <distance author1="Gang Li" author2="Tao Wu" distance="2"/>
+  <distance author1="Himanshu Agrawal" author2="Mark Gregory" distance="1"/>
+  <distance author1="Himanshu Agrawal" author2="Melanie Grah" distance="1"/>
+  <distance author1="Melanie Grah" author2="Mark Gregory" distance="1"/>
+  <distance author1="Iftekhar Ahmad" author2="Daryoush Habibi" distance="1"/>
+  <distance author1="Morteza Analoui" author2="Mohammad R. Jahed" distance="1"/>
+  <distance author1="Alauddin Ahmed" author2="Atiqur Rahman" distance="1"/>
+  <distance author1="Alauddin Ahmed" author2="Nazmul Haque" distance="1"/>
+  <distance author1="Alauddin Ahmed" author2="Mohammed Anwer" distance="1"/>
+  <distance author1="Atiqur Rahman" author2="Nazmul Haque" distance="1"/>
+  <distance author1="Atiqur Rahman" author2="Mohammed Anwer" distance="1"/>
+  <distance author1="Mohammed Anwer" author2="Nazmul Haque" distance="1"/>
+  <distance author1="Ali Mazalek" author2="Yanfeng Chen" distance="1"/>
+  <distance author1="Ali Mazalek" author2="Kirti Goel" distance="1"/>
+  <distance author1="Ali Mazalek" author2="Michael Nitsche" distance="1"/>
+  <distance author1="Ali Mazalek" author2="&#xD6;zge Samanci" distance="1"/>
+  <distance author1="Ali Mazalek" author2="Hyun-Jean Lee" distance="1"/>
+  <distance author1="Hirokatsu So" author2="Ichiroh Kanaya" distance="1"/>
+  <distance author1="Hirokatsu So" author2="Kosuke Sato" distance="1"/>
+  <distance author1="Ichiroh Kanaya" author2="Kosuke Sato" distance="1"/>
+  <distance author1="Yannick Francken" author2="Philippe Bekaert" distance="1"/>
+  <distance author1="Yannick Francken" author2="Johan Huysmans" distance="1"/>
+  <distance author1="Johan Huysmans" author2="Philippe Bekaert" distance="1"/>
+  <distance author1="Takuya Shimada" author2="Yu Shibuya" distance="1"/>
+  <distance author1="Takuya Shimada" author2="Yoshihiro Tsujino" distance="1"/>
+  <distance author1="Takuya Shimada" author2="Itaru Kuramoto" distance="1"/>
+  <distance author1="Itaru Kuramoto" author2="Yoshihiro Tsujino" distance="1"/>
+  <distance author1="Itaru Kuramoto" author2="Yu Shibuya" distance="1"/>
+  <distance author1="Yu Shibuya" author2="Yoshihiro Tsujino" distance="1"/>
+  <distance author1="Rui Prada" author2="Ana Paiva" distance="1"/>
+  <distance author1="Rui Prada" author2="Nuno Otero" distance="1"/>
+  <distance author1="Nuno Otero" author2="Ana Paiva" distance="1"/>
+  <distance author1="Nipan Maniar" author2="Emily Bennett" distance="1"/>
+  <distance author1="Yu Uchida" author2="Shiho Hirayama" distance="1"/>
+  <distance author1="Yu Uchida" author2="Mami Naito" distance="1"/>
+  <distance author1="Mami Naito" author2="Shiho Hirayama" distance="1"/>
+  <distance author1="Kathryn Elizabeth Merrick" author2="Mary Lou Maher" distance="1"/>
+  <distance author1="Hyun-Jean Lee" author2="Kirti Goel" distance="1"/>
+  <distance author1="Shuichi Ishibashi" author2="Hirotaka Hatayama" distance="2"/>
+  <distance author1="Shuichi Ishibashi" author2="Jun Usui" distance="2"/>
+  <distance author1="Shuichi Ishibashi" author2="Daisuke Uriu" distance="1"/>
+  <distance author1="Shuichi Ishibashi" author2="Naohito Okude" distance="1"/>
+  <distance author1="Daisuke Uriu" author2="Hirotaka Hatayama" distance="2"/>
+  <distance author1="Daisuke Uriu" author2="Naohito Okude" distance="1"/>
+  <distance author1="Daisuke Uriu" author2="Jun Usui" distance="2"/>
+  <distance author1="Naohito Okude" author2="Hirotaka Hatayama" distance="1"/>
+  <distance author1="Naohito Okude" author2="Jun Usui" distance="1"/>
+  <distance author1="William Bamford" author2="Reuben Edwards" distance="1"/>
+  <distance author1="William Bamford" author2="Paul Coulton" distance="1"/>
+  <distance author1="Paul Coulton" author2="Reuben Edwards" distance="1"/>
+  <distance author1="Regina Bernhaupt" author2="David Wilfinger" distance="1"/>
+  <distance author1="Regina Bernhaupt" author2="David Enthaler" distance="1"/>
+  <distance author1="Regina Bernhaupt" author2="Stefan Riegler" distance="1"/>
+  <distance author1="Regina Bernhaupt" author2="Daniel Schwaiger" distance="1"/>
+  <distance author1="Regina Bernhaupt" author2="Thomas Mirlacher" distance="1"/>
+  <distance author1="Regina Bernhaupt" author2="Manfred Tscheligi" distance="1"/>
+  <distance author1="Regina Bernhaupt" author2="Michael Lankes" distance="1"/>
+  <distance author1="Regina Bernhaupt" author2="Andreas Boldt" distance="1"/>
+  <distance author1="Andreas Boldt" author2="Manfred Tscheligi" distance="1"/>
+  <distance author1="Andreas Boldt" author2="David Wilfinger" distance="1"/>
+  <distance author1="Andreas Boldt" author2="Michael Lankes" distance="2"/>
+  <distance author1="Andreas Boldt" author2="Thomas Mirlacher" distance="1"/>
+  <distance author1="Thomas Mirlacher" author2="Manfred Tscheligi" distance="1"/>
+  <distance author1="Thomas Mirlacher" author2="Michael Lankes" distance="2"/>
+  <distance author1="Thomas Mirlacher" author2="David Wilfinger" distance="1"/>
+  <distance author1="David Wilfinger" author2="Manfred Tscheligi" distance="1"/>
+  <distance author1="David Wilfinger" author2="Michael Lankes" distance="2"/>
+  <distance author1="Manfred Tscheligi" author2="Michael Lankes" distance="1"/>
+  <distance author1="Marie-Anne Midy" author2="Yunrim Park" distance="1"/>
+  <distance author1="Marie-Anne Midy" author2="Carlos Jensen" distance="1"/>
+  <distance author1="Carlos Jensen" author2="Yunrim Park" distance="1"/>
+  <distance author1="Kazuhiro Hosoi" author2="Akihiro Mori" distance="1"/>
+  <distance author1="Kazuhiro Hosoi" author2="Masanori Sugimoto" distance="1"/>
+  <distance author1="Kazuhiro Hosoi" author2="Vinh Ninh Dao" distance="1"/>
+  <distance author1="Vinh Ninh Dao" author2="Masanori Sugimoto" distance="1"/>
+  <distance author1="Vinh Ninh Dao" author2="Akihiro Mori" distance="1"/>
+  <distance author1="Akihiro Mori" author2="Masanori Sugimoto" distance="1"/>
+  <distance author1="Chih-Sung Andy Wu" author2="Susan J. Robinson" distance="1"/>
+  <distance author1="Chih-Sung Andy Wu" author2="Alexandra Mazalek" distance="1"/>
+  <distance author1="Susan J. Robinson" author2="Alexandra Mazalek" distance="1"/>
+  <distance author1="&#xD6;zge Samanci" author2="Yanfeng Chen" distance="1"/>
+  <distance author1="Amnon Dekel" author2="Ela Ben-Tov" distance="1"/>
+  <distance author1="Amnon Dekel" author2="Yulia Roschak" distance="1"/>
+  <distance author1="Amnon Dekel" author2="Galit Yavne" distance="1"/>
+  <distance author1="Galit Yavne" author2="Ela Ben-Tov" distance="1"/>
+  <distance author1="Galit Yavne" author2="Yulia Roschak" distance="1"/>
+  <distance author1="Ela Ben-Tov" author2="Yulia Roschak" distance="1"/>
+  <distance author1="Ye Wang" author2="Jia Zhu" distance="1"/>
+  <distance author1="Guylain Delmas" author2="Ronan Champagnat" distance="1"/>
+  <distance author1="Guylain Delmas" author2="Michel Augeraud" distance="1"/>
+  <distance author1="Ronan Champagnat" author2="Michel Augeraud" distance="1"/>
+  <distance author1="Klaus Br&#xFC;gmann" author2="Mitsuru Ishizuka" distance="1"/>
+  <distance author1="Klaus Br&#xFC;gmann" author2="Marc Stamminger" distance="1"/>
+  <distance author1="Klaus Br&#xFC;gmann" author2="Helmut Prendinger" distance="1"/>
+  <distance author1="Helmut Prendinger" author2="Mitsuru Ishizuka" distance="1"/>
+  <distance author1="Helmut Prendinger" author2="Marc Stamminger" distance="1"/>
+  <distance author1="Marc Stamminger" author2="Mitsuru Ishizuka" distance="1"/>
+  <distance author1="Satoru Tokuhisa" author2="Yoshitaka Tomari" distance="2"/>
+  <distance author1="Satoru Tokuhisa" author2="Kensuke Fukushima" distance="2"/>
+  <distance author1="Satoru Tokuhisa" author2="Maiko Kamata" distance="2"/>
+  <distance author1="Satoru Tokuhisa" author2="Yukinari Iwata" distance="1"/>
+  <distance author1="Satoru Tokuhisa" author2="Atsuro Ueki" distance="2"/>
+  <distance author1="Satoru Tokuhisa" author2="Masa Inakage" distance="1"/>
+  <distance author1="Satoru Tokuhisa" author2="Anna Ishihara" distance="2"/>
+  <distance author1="Satoru Tokuhisa" author2="Tomohisa Tomida" distance="2"/>
+  <distance author1="Yukinari Iwata" author2="Kensuke Fukushima" distance="2"/>
+  <distance author1="Yukinari Iwata" author2="Yoshitaka Tomari" distance="2"/>
+  <distance author1="Yukinari Iwata" author2="Maiko Kamata" distance="2"/>
+  <distance author1="Yukinari Iwata" author2="Atsuro Ueki" distance="2"/>
+  <distance author1="Yukinari Iwata" author2="Tomohisa Tomida" distance="2"/>
+  <distance author1="Yukinari Iwata" author2="Anna Ishihara" distance="2"/>
+  <distance author1="Yukinari Iwata" author2="Masa Inakage" distance="1"/>
+  <distance author1="Masa Inakage" author2="Yoshitaka Tomari" distance="1"/>
+  <distance author1="Masa Inakage" author2="Kensuke Fukushima" distance="1"/>
+  <distance author1="Masa Inakage" author2="Maiko Kamata" distance="1"/>
+  <distance author1="Masa Inakage" author2="Anna Ishihara" distance="1"/>
+  <distance author1="Masa Inakage" author2="Atsuro Ueki" distance="1"/>
+  <distance author1="Masa Inakage" author2="Tomohisa Tomida" distance="1"/>
+  <distance author1="Jong-Chul Yoon" author2="In-Kwon Lee" distance="1"/>
+  <distance author1="Tomohisa Tomida" author2="Atsuro Ueki" distance="1"/>
+  <distance author1="Tomohisa Tomida" author2="Kensuke Fukushima" distance="1"/>
+  <distance author1="Tomohisa Tomida" author2="Yoshitaka Tomari" distance="1"/>
+  <distance author1="Tomohisa Tomida" author2="Maiko Kamata" distance="2"/>
+  <distance author1="Tomohisa Tomida" author2="Anna Ishihara" distance="1"/>
+  <distance author1="Anna Ishihara" author2="Yoshitaka Tomari" distance="1"/>
+  <distance author1="Anna Ishihara" author2="Atsuro Ueki" distance="1"/>
+  <distance author1="Anna Ishihara" author2="Kensuke Fukushima" distance="1"/>
+  <distance author1="Anna Ishihara" author2="Maiko Kamata" distance="2"/>
+  <distance author1="Atsuro Ueki" author2="Kensuke Fukushima" distance="1"/>
+  <distance author1="Atsuro Ueki" author2="Yoshitaka Tomari" distance="1"/>
+  <distance author1="Atsuro Ueki" author2="Maiko Kamata" distance="1"/>
+  <distance author1="Yoshitaka Tomari" author2="Kensuke Fukushima" distance="1"/>
+  <distance author1="Miki Namatame" author2="Shigenori Inagaki" distance="2"/>
+  <distance author1="Miki Namatame" author2="Ichiro Satoh" distance="2"/>
+  <distance author1="Miki Namatame" author2="Hiroshi Mizoguchi" distance="2"/>
+  <distance author1="Miki Namatame" author2="Fusako Kusunoki" distance="1"/>
+  <distance author1="Fusako Kusunoki" author2="Shigenori Inagaki" distance="1"/>
+  <distance author1="Fusako Kusunoki" author2="Hiroshi Mizoguchi" distance="1"/>
+  <distance author1="Fusako Kusunoki" author2="Ichiro Satoh" distance="1"/>
+  <distance author1="Jeffrey Bardzell" author2="William Ryan" distance="1"/>
+  <distance author1="Jeffrey Bardzell" author2="Craig Birchler" distance="1"/>
+  <distance author1="Jeffrey Bardzell" author2="Shaowen Bardzell" distance="1"/>
+  <distance author1="Shaowen Bardzell" author2="William Ryan" distance="1"/>
+  <distance author1="Shaowen Bardzell" author2="Craig Birchler" distance="1"/>
+  <distance author1="Craig Birchler" author2="William Ryan" distance="1"/>
+  <distance author1="Hideto Obara" author2="Naoko Tosa" distance="1"/>
+  <distance author1="Hideto Obara" author2="Michihiko Minoh" distance="1"/>
+  <distance author1="Naoko Tosa" author2="Michihiko Minoh" distance="1"/>
+  <distance author1="Sean Casey" author2="Duncan Rowland" distance="1"/>
+  <distance author1="Sean Casey" author2="Ben Kirman" distance="1"/>
+  <distance author1="Duncan Rowland" author2="Ben Kirman" distance="1"/>
+  <distance author1="Kazuhito Shiratori" author2="Rai Chan" distance="1"/>
+  <distance author1="Kazuhito Shiratori" author2="Junichi Hoshino" distance="1"/>
+  <distance author1="Rai Chan" author2="Junichi Hoshino" distance="1"/>
+  <distance author1="Tobias Fritsch" author2="Benjamin Voigt" distance="1"/>
+  <distance author1="Tobias Fritsch" author2="Jochen H. Schiller" distance="1"/>
+  <distance author1="Jochen H. Schiller" author2="Benjamin Voigt" distance="1"/>
+  <distance author1="Masayuki Ueno" author2="Katsuhide Tsushima" distance="1"/>
+  <distance author1="Masayuki Ueno" author2="Kazuma Tanida" distance="1"/>
+  <distance author1="Kazuma Tanida" author2="Katsuhide Tsushima" distance="1"/>
+  <distance author1="Peter Kiefer" author2="Christoph Schlieder" distance="1"/>
+  <distance author1="Peter Kiefer" author2="Sebastian Matyas" distance="1"/>
+  <distance author1="Sebastian Matyas" author2="Christoph Schlieder" distance="1"/>
+  <distance author1="Cristina Portal&#xE9;s" author2="Carlos D. Perales" distance="1"/>
+  <distance author1="Cristina Portal&#xE9;s" author2="Adrian David Cheok" distance="1"/>
+  <distance author1="Ismo Rakkolainen" author2="Artur Lugmayr" distance="1"/>
+  <distance author1="Wee Ling Wong" author2="Hua Wang" distance="1"/>
+  <distance author1="Wee Ling Wong" author2="Ute Ritterfeld" distance="1"/>
+  <distance author1="Wee Ling Wong" author2="Shiyamvar Bugga" distance="1"/>
+  <distance author1="Wee Ling Wong" author2="Harishkumar Narayanan" distance="1"/>
+  <distance author1="Wee Ling Wong" author2="Fei Tang" distance="1"/>
+  <distance author1="Wee Ling Wong" author2="Eduardo Carriazo" distance="1"/>
+  <distance author1="Wee Ling Wong" author2="Cuihua Shen" distance="1"/>
+  <distance author1="Wee Ling Wong" author2="Luciano Nocera" distance="1"/>
+  <distance author1="Cuihua Shen" author2="Fei Tang" distance="1"/>
+  <distance author1="Cuihua Shen" author2="Ute Ritterfeld" distance="1"/>
+  <distance author1="Cuihua Shen" author2="Harishkumar Narayanan" distance="1"/>
+  <distance author1="Cuihua Shen" author2="Hua Wang" distance="1"/>
+  <distance author1="Cuihua Shen" author2="Eduardo Carriazo" distance="1"/>
+  <distance author1="Cuihua Shen" author2="Shiyamvar Bugga" distance="1"/>
+  <distance author1="Cuihua Shen" author2="Luciano Nocera" distance="1"/>
+  <distance author1="Luciano Nocera" author2="Ute Ritterfeld" distance="1"/>
+  <distance author1="Luciano Nocera" author2="Harishkumar Narayanan" distance="1"/>
+  <distance author1="Luciano Nocera" author2="Hua Wang" distance="1"/>
+  <distance author1="Luciano Nocera" author2="Shiyamvar Bugga" distance="1"/>
+  <distance author1="Luciano Nocera" author2="Fei Tang" distance="1"/>
+  <distance author1="Luciano Nocera" author2="Eduardo Carriazo" distance="1"/>
+  <distance author1="Eduardo Carriazo" author2="Hua Wang" distance="1"/>
+  <distance author1="Eduardo Carriazo" author2="Ute Ritterfeld" distance="1"/>
+  <distance author1="Eduardo Carriazo" author2="Fei Tang" distance="1"/>
+  <distance author1="Eduardo Carriazo" author2="Shiyamvar Bugga" distance="1"/>
+  <distance author1="Eduardo Carriazo" author2="Harishkumar Narayanan" distance="1"/>
+  <distance author1="Fei Tang" author2="Harishkumar Narayanan" distance="1"/>
+  <distance author1="Fei Tang" author2="Hua Wang" distance="1"/>
+  <distance author1="Fei Tang" author2="Ute Ritterfeld" distance="1"/>
+  <distance author1="Fei Tang" author2="Shiyamvar Bugga" distance="1"/>
+  <distance author1="Shiyamvar Bugga" author2="Ute Ritterfeld" distance="1"/>
+  <distance author1="Shiyamvar Bugga" author2="Hua Wang" distance="1"/>
+  <distance author1="Shiyamvar Bugga" author2="Harishkumar Narayanan" distance="1"/>
+  <distance author1="Harishkumar Narayanan" author2="Ute Ritterfeld" distance="1"/>
+  <distance author1="Harishkumar Narayanan" author2="Hua Wang" distance="1"/>
+  <distance author1="Hua Wang" author2="Ute Ritterfeld" distance="1"/>
+  <distance author1="Anton Nijholt" author2="Desney S. Tan" distance="1"/>
+  <distance author1="Ryota Oiwa" author2="Haruhiro Katayose" distance="1"/>
+  <distance author1="Ryota Oiwa" author2="Mitsuyo Hashida" distance="1"/>
+  <distance author1="Mitsuyo Hashida" author2="Haruhiro Katayose" distance="1"/>
+  <distance author1="Satoshi Kuribayashi" author2="Hiroya Tanaka" distance="1"/>
+  <distance author1="Satoshi Kuribayashi" author2="Maya Morihara" distance="1"/>
+  <distance author1="Satoshi Kuribayashi" author2="Yusuke Sakamoto" distance="1"/>
+  <distance author1="Yusuke Sakamoto" author2="Maya Morihara" distance="1"/>
+  <distance author1="Yusuke Sakamoto" author2="Hiroya Tanaka" distance="1"/>
+  <distance author1="Maya Morihara" author2="Hiroya Tanaka" distance="1"/>
+  <distance author1="Daniel Chun-Ming Leung" author2="Edward Hon-Hei Yau" distance="1"/>
+  <distance author1="Daniel Chun-Ming Leung" author2="Irwin King" distance="1"/>
+  <distance author1="Daniel Chun-Ming Leung" author2="Pak-Shing Au" distance="1"/>
+  <distance author1="Pak-Shing Au" author2="Edward Hon-Hei Yau" distance="1"/>
+  <distance author1="Pak-Shing Au" author2="Irwin King" distance="1"/>
+  <distance author1="Irwin King" author2="Edward Hon-Hei Yau" distance="1"/>
+  <distance author1="Bernd Bruegge" author2="Simon Bierbaum" distance="1"/>
+  <distance author1="Bernd Bruegge" author2="Eva Fenzl" distance="1"/>
+  <distance author1="Bernd Bruegge" author2="Dominik Schmidt" distance="1"/>
+  <distance author1="Bernd Bruegge" author2="Peter Lachenmaier" distance="1"/>
+  <distance author1="Bernd Bruegge" author2="Christoph Teschner" distance="1"/>
+  <distance author1="Christoph Teschner" author2="Simon Bierbaum" distance="1"/>
+  <distance author1="Christoph Teschner" author2="Eva Fenzl" distance="1"/>
+  <distance author1="Christoph Teschner" author2="Dominik Schmidt" distance="1"/>
+  <distance author1="Christoph Teschner" author2="Peter Lachenmaier" distance="1"/>
+  <distance author1="Peter Lachenmaier" author2="Dominik Schmidt" distance="1"/>
+  <distance author1="Peter Lachenmaier" author2="Simon Bierbaum" distance="1"/>
+  <distance author1="Peter Lachenmaier" author2="Eva Fenzl" distance="1"/>
+  <distance author1="Eva Fenzl" author2="Simon Bierbaum" distance="1"/>
+  <distance author1="Eva Fenzl" author2="Dominik Schmidt" distance="1"/>
+  <distance author1="Dominik Schmidt" author2="Simon Bierbaum" distance="1"/>
+  <distance author1="Kirak Kim" author2="Woonhyuk Baek" distance="1"/>
+  <distance author1="Kirak Kim" author2="Keechul Jung" distance="1"/>
+  <distance author1="Kirak Kim" author2="Hyunchul Choi" distance="1"/>
+  <distance author1="Kirak Kim" author2="Dongwuk Kyoung" distance="1"/>
+  <distance author1="Kirak Kim" author2="Mijeong Jeon" distance="1"/>
+  <distance author1="Kirak Kim" author2="Hyesun Ju" distance="1"/>
+  <distance author1="Kirak Kim" author2="Wooup Kwon" distance="1"/>
+  <distance author1="Kirak Kim" author2="Jinsu Park" distance="1"/>
+  <distance author1="Kirak Kim" author2="Eunsun Choi" distance="1"/>
+  <distance author1="Wooup Kwon" author2="Keechul Jung" distance="1"/>
+  <distance author1="Wooup Kwon" author2="Dongwuk Kyoung" distance="1"/>
+  <distance author1="Wooup Kwon" author2="Hyesun Ju" distance="1"/>
+  <distance author1="Wooup Kwon" author2="Woonhyuk Baek" distance="1"/>
+  <distance author1="Wooup Kwon" author2="Mijeong Jeon" distance="1"/>
+  <distance author1="Wooup Kwon" author2="Hyunchul Choi" distance="1"/>
+  <distance author1="Wooup Kwon" author2="Eunsun Choi" distance="1"/>
+  <distance author1="Wooup Kwon" author2="Jinsu Park" distance="1"/>
+  <distance author1="Eunsun Choi" author2="Keechul Jung" distance="1"/>
+  <distance author1="Eunsun Choi" author2="Woonhyuk Baek" distance="1"/>
+  <distance author1="Eunsun Choi" author2="Mijeong Jeon" distance="1"/>
+  <distance author1="Eunsun Choi" author2="Hyunchul Choi" distance="1"/>
+  <distance author1="Eunsun Choi" author2="Dongwuk Kyoung" distance="1"/>
+  <distance author1="Eunsun Choi" author2="Hyesun Ju" distance="1"/>
+  <distance author1="Eunsun Choi" author2="Jinsu Park" distance="1"/>
+  <distance author1="Jinsu Park" author2="Dongwuk Kyoung" distance="1"/>
+  <distance author1="Jinsu Park" author2="Keechul Jung" distance="1"/>
+  <distance author1="Jinsu Park" author2="Woonhyuk Baek" distance="1"/>
+  <distance author1="Jinsu Park" author2="Hyunchul Choi" distance="1"/>
+  <distance author1="Jinsu Park" author2="Mijeong Jeon" distance="1"/>
+  <distance author1="Jinsu Park" author2="Hyesun Ju" distance="1"/>
+  <distance author1="Mijeong Jeon" author2="Hyunchul Choi" distance="1"/>
+  <distance author1="Mijeong Jeon" author2="Woonhyuk Baek" distance="1"/>
+  <distance author1="Mijeong Jeon" author2="Keechul Jung" distance="1"/>
+  <distance author1="Mijeong Jeon" author2="Dongwuk Kyoung" distance="1"/>
+  <distance author1="Mijeong Jeon" author2="Hyesun Ju" distance="1"/>
+  <distance author1="Hyesun Ju" author2="Keechul Jung" distance="1"/>
+  <distance author1="Hyesun Ju" author2="Dongwuk Kyoung" distance="1"/>
+  <distance author1="Hyesun Ju" author2="Woonhyuk Baek" distance="1"/>
+  <distance author1="Hyesun Ju" author2="Hyunchul Choi" distance="1"/>
+  <distance author1="Hyunchul Choi" author2="Keechul Jung" distance="1"/>
+  <distance author1="Hyunchul Choi" author2="Dongwuk Kyoung" distance="1"/>
+  <distance author1="Hyunchul Choi" author2="Woonhyuk Baek" distance="1"/>
+  <distance author1="Woonhyuk Baek" author2="Keechul Jung" distance="1"/>
+  <distance author1="Woonhyuk Baek" author2="Dongwuk Kyoung" distance="1"/>
+  <distance author1="Dongwuk Kyoung" author2="Keechul Jung" distance="1"/>
+  <distance author1="Jun Usui" author2="Hirotaka Hatayama" distance="1"/>
+  <distance author1="Benjamin Knoerlein" author2="G&#xE1;bor Sz&#xE9;kely" distance="1"/>
+  <distance author1="Benjamin Knoerlein" author2="Matthias Harders" distance="1"/>
+  <distance author1="G&#xE1;bor Sz&#xE9;kely" author2="Matthias Harders" distance="1"/>
+  <distance author1="Johan Peitz" author2="Staffan Bj&#xF6;rk" distance="1"/>
+  <distance author1="Johan Peitz" author2="Hannamari Saarenp&#xE4;&#xE4;" distance="1"/>
+  <distance author1="Hannamari Saarenp&#xE4;&#xE4;" author2="Staffan Bj&#xF6;rk" distance="1"/>
+  <distance author1="Daniel Schwaiger" author2="David Enthaler" distance="1"/>
+  <distance author1="Daniel Schwaiger" author2="Stefan Riegler" distance="1"/>
+  <distance author1="Stefan Riegler" author2="David Enthaler" distance="1"/>
+  <distance author1="Yuko Uematsu" author2="Hideo Saito" distance="1"/>
+  <distance author1="Carlos D. Perales" author2="Adrian David Cheok" distance="1"/>
+  <distance author1="Min Xin" author2="Saul Greenberg" distance="1"/>
+  <distance author1="Min Xin" author2="Ehud Sharlin" distance="1"/>
+  <distance author1="Min Xin" author2="Faramarz Samavati" distance="1"/>
+  <distance author1="Min Xin" author2="Mario Costa Sousa" distance="1"/>
+  <distance author1="Ehud Sharlin" author2="Faramarz Samavati" distance="1"/>
+  <distance author1="Ehud Sharlin" author2="Saul Greenberg" distance="1"/>
+  <distance author1="Ehud Sharlin" author2="Mario Costa Sousa" distance="1"/>
+  <distance author1="Mario Costa Sousa" author2="Saul Greenberg" distance="1"/>
+  <distance author1="Mario Costa Sousa" author2="Faramarz Samavati" distance="1"/>
+  <distance author1="Saul Greenberg" author2="Faramarz Samavati" distance="1"/>
+  <distance author1="Ichiro Satoh" author2="Shigenori Inagaki" distance="1"/>
+  <distance author1="Ichiro Satoh" author2="Hiroshi Mizoguchi" distance="1"/>
+  <distance author1="Hiroshi Mizoguchi" author2="Shigenori Inagaki" distance="1"/>
+  <distance author1="Vivian Hsueh-hua Chen" author2="Henry Been-Lirn Duh" distance="1"/>
+  <distance author1="Brendan Walker" author2="Angus Clark" distance="1"/>
+  <distance author1="Brendan Walker" author2="Steve Benford" distance="1"/>
+  <distance author1="Brendan Walker" author2="Andrew French" distance="1"/>
+  <distance author1="Brendan Walker" author2="Tom Rodden" distance="1"/>
+  <distance author1="Brendan Walker" author2="Kher Hui Ng" distance="1"/>
+  <distance author1="Brendan Walker" author2="Michael Wright" distance="1"/>
+  <distance author1="Brendan Walker" author2="Tuvi Orbach" distance="1"/>
+  <distance author1="Brendan Walker" author2="Stefan Rennick Egglestone" distance="1"/>
+  <distance author1="Brendan Walker" author2="Holger Schn&#xE4;delbach" distance="1"/>
+  <distance author1="Holger Schn&#xE4;delbach" author2="Andrew French" distance="1"/>
+  <distance author1="Holger Schn&#xE4;delbach" author2="Kher Hui Ng" distance="1"/>
+  <distance author1="Holger Schn&#xE4;delbach" author2="Steve Benford" distance="1"/>
+  <distance author1="Holger Schn&#xE4;delbach" author2="Michael Wright" distance="1"/>
+  <distance author1="Holger Schn&#xE4;delbach" author2="Tom Rodden" distance="1"/>
+  <distance author1="Holger Schn&#xE4;delbach" author2="Angus Clark" distance="1"/>
+  <distance author1="Holger Schn&#xE4;delbach" author2="Tuvi Orbach" distance="1"/>
+  <distance author1="Holger Schn&#xE4;delbach" author2="Stefan Rennick Egglestone" distance="1"/>
+  <distance author1="Stefan Rennick Egglestone" author2="Angus Clark" distance="1"/>
+  <distance author1="Stefan Rennick Egglestone" author2="Steve Benford" distance="1"/>
+  <distance author1="Stefan Rennick Egglestone" author2="Tom Rodden" distance="1"/>
+  <distance author1="Stefan Rennick Egglestone" author2="Michael Wright" distance="1"/>
+  <distance author1="Stefan Rennick Egglestone" author2="Kher Hui Ng" distance="1"/>
+  <distance author1="Stefan Rennick Egglestone" author2="Andrew French" distance="1"/>
+  <distance author1="Stefan Rennick Egglestone" author2="Tuvi Orbach" distance="1"/>
+  <distance author1="Angus Clark" author2="Steve Benford" distance="1"/>
+  <distance author1="Angus Clark" author2="Tom Rodden" distance="1"/>
+  <distance author1="Angus Clark" author2="Andrew French" distance="1"/>
+  <distance author1="Angus Clark" author2="Michael Wright" distance="1"/>
+  <distance author1="Angus Clark" author2="Kher Hui Ng" distance="1"/>
+  <distance author1="Angus Clark" author2="Tuvi Orbach" distance="1"/>
+  <distance author1="Tuvi Orbach" author2="Kher Hui Ng" distance="1"/>
+  <distance author1="Tuvi Orbach" author2="Steve Benford" distance="1"/>
+  <distance author1="Tuvi Orbach" author2="Tom Rodden" distance="1"/>
+  <distance author1="Tuvi Orbach" author2="Andrew French" distance="1"/>
+  <distance author1="Tuvi Orbach" author2="Michael Wright" distance="1"/>
+  <distance author1="Michael Wright" author2="Steve Benford" distance="1"/>
+  <distance author1="Michael Wright" author2="Andrew French" distance="1"/>
+  <distance author1="Michael Wright" author2="Kher Hui Ng" distance="1"/>
+  <distance author1="Michael Wright" author2="Tom Rodden" distance="1"/>
+  <distance author1="Kher Hui Ng" author2="Steve Benford" distance="1"/>
+  <distance author1="Kher Hui Ng" author2="Tom Rodden" distance="1"/>
+  <distance author1="Kher Hui Ng" author2="Andrew French" distance="1"/>
+  <distance author1="Andrew French" author2="Steve Benford" distance="1"/>
+  <distance author1="Andrew French" author2="Tom Rodden" distance="1"/>
+  <distance author1="Tom Rodden" author2="Steve Benford" distance="1"/>
+  <distance author1="Takanori Komatsu" author2="Seiji Yamada" distance="1"/>
+  <distance author1="Poika Isokoski" author2="Beno&#xEE;t Martin" distance="1"/>
+  <distance author1="St&#xE9;phane Jean" author2="Guy Pierra" distance="1"/>
+  <distance author1="St&#xE9;phane Jean" author2="Yamine A&#xEF;t Ameur" distance="1"/>
+  <distance author1="Yamine A&#xEF;t Ameur" author2="Guy Pierra" distance="1"/>
+  <distance author1="Heine Kolltveit" author2="Svein-Olaf Hvasshovd" distance="1"/>
+  <distance author1="Haridimos Kondylakis" author2="Anastasia Analyti" distance="1"/>
+  <distance author1="Haridimos Kondylakis" author2="Dimitris Plexousakis" distance="1"/>
+  <distance author1="Anastasia Analyti" author2="Dimitris Plexousakis" distance="1"/>
+  <distance author1="Michal Lentner" author2="Kazimierz Subieta" distance="1"/>
+  <distance author1="Stefanos Ougiaroglou" author2="Tatjana Welzer-Druzovec" distance="1"/>
+  <distance author1="Stefanos Ougiaroglou" author2="Christos Makris" distance="2"/>
+  <distance author1="Stefanos Ougiaroglou" author2="Kostas Tsichlas" distance="2"/>
+  <distance author1="Stefanos Ougiaroglou" author2="Konstantinos Tsakalidis" distance="2"/>
+  <distance author1="Stefanos Ougiaroglou" author2="Spyros Sioutas" distance="2"/>
+  <distance author1="Stefanos Ougiaroglou" author2="Apostolos N. Papadopoulos" distance="1"/>
+  <distance author1="Stefanos Ougiaroglou" author2="Yannis Manolopoulos" distance="1"/>
+  <distance author1="Stefanos Ougiaroglou" author2="Alexandros Nanopoulos" distance="1"/>
+  <distance author1="Alexandros Nanopoulos" author2="Christos Makris" distance="2"/>
+  <distance author1="Alexandros Nanopoulos" author2="Kostas Tsichlas" distance="2"/>
+  <distance author1="Alexandros Nanopoulos" author2="Tatjana Welzer-Druzovec" distance="1"/>
+  <distance author1="Alexandros Nanopoulos" author2="Konstantinos Tsakalidis" distance="2"/>
+  <distance author1="Alexandros Nanopoulos" author2="Spyros Sioutas" distance="2"/>
+  <distance author1="Alexandros Nanopoulos" author2="Apostolos N. Papadopoulos" distance="1"/>
+  <distance author1="Alexandros Nanopoulos" author2="Yannis Manolopoulos" distance="1"/>
+  <distance author1="Apostolos N. Papadopoulos" author2="Christos Makris" distance="2"/>
+  <distance author1="Apostolos N. Papadopoulos" author2="Konstantinos Tsakalidis" distance="2"/>
+  <distance author1="Apostolos N. Papadopoulos" author2="Spyros Sioutas" distance="2"/>
+  <distance author1="Apostolos N. Papadopoulos" author2="Tatjana Welzer-Druzovec" distance="1"/>
+  <distance author1="Apostolos N. Papadopoulos" author2="Kostas Tsichlas" distance="2"/>
+  <distance author1="Apostolos N. Papadopoulos" author2="Yannis Manolopoulos" distance="1"/>
+  <distance author1="Yannis Manolopoulos" author2="Christos Makris" distance="1"/>
+  <distance author1="Yannis Manolopoulos" author2="Spyros Sioutas" distance="1"/>
+  <distance author1="Yannis Manolopoulos" author2="Kostas Tsichlas" distance="1"/>
+  <distance author1="Yannis Manolopoulos" author2="Tatjana Welzer-Druzovec" distance="1"/>
+  <distance author1="Yannis Manolopoulos" author2="Konstantinos Tsakalidis" distance="1"/>
+  <distance author1="Spyros Sioutas" author2="Christos Makris" distance="1"/>
+  <distance author1="Spyros Sioutas" author2="Kostas Tsichlas" distance="1"/>
+  <distance author1="Spyros Sioutas" author2="Konstantinos Tsakalidis" distance="1"/>
+  <distance author1="Konstantinos Tsakalidis" author2="Kostas Tsichlas" distance="1"/>
+  <distance author1="Konstantinos Tsakalidis" author2="Christos Makris" distance="1"/>
+  <distance author1="Kostas Tsichlas" author2="Christos Makris" distance="1"/>
+  <distance author1="Kahkashan Shaukat" author2="Violet R. Syrotiuk" distance="1"/>
+  <distance author1="Kahkashan Shaukat" author2="Yuhan Moon" distance="2"/>
+  <distance author1="Violet R. Syrotiuk" author2="Yuhan Moon" distance="1"/>
+  <distance author1="Rudi Ball" author2="Jonathan So" distance="1"/>
+  <distance author1="Rudi Ball" author2="Victoria Spurrett" distance="1"/>
+  <distance author1="Rudi Ball" author2="Rog&#xE9;rio de Lemos" distance="1"/>
+  <distance author1="Rudi Ball" author2="James Grant" distance="1"/>
+  <distance author1="James Grant" author2="Victoria Spurrett" distance="1"/>
+  <distance author1="James Grant" author2="Jonathan So" distance="1"/>
+  <distance author1="James Grant" author2="Rog&#xE9;rio de Lemos" distance="1"/>
+  <distance author1="Jonathan So" author2="Victoria Spurrett" distance="1"/>
+  <distance author1="Jonathan So" author2="Rog&#xE9;rio de Lemos" distance="1"/>
+  <distance author1="Victoria Spurrett" author2="Rog&#xE9;rio de Lemos" distance="1"/>
+  <distance author1="Beat Gfeller" author2="Elias Vicari" distance="1"/>
+  <distance author1="Gagan Raj Gupta" author2="Parmesh Ramanathan" distance="1"/>
+  <distance author1="Petteri Kaski" author2="Jukka Suomela" distance="1"/>
+  <distance author1="Petteri Kaski" author2="Aleksi Penttinen" distance="1"/>
+  <distance author1="Aleksi Penttinen" author2="Jukka Suomela" distance="1"/>
+  <distance author1="Diwen Wu" author2="Dongqing Xie" distance="1"/>
+  <distance author1="Jin-Ok Hwang" author2="Hyo-Beom Lee" distance="1"/>
+  <distance author1="Jin-Ok Hwang" author2="Sung-Gi Min" distance="1"/>
+  <distance author1="Hyo-Beom Lee" author2="Sung-Gi Min" distance="1"/>
+  <distance author1="Stefan Funke" author2="Imran Rauf" distance="1"/>
+  <distance author1="Amir Darehshoorzadeh" author2="Hadi Sanjani" distance="2"/>
+  <distance author1="Amir Darehshoorzadeh" author2="Arash Nasiri Eghbali" distance="2"/>
+  <distance author1="Amir Darehshoorzadeh" author2="M. Reza Jahed Motlagh" distance="1"/>
+  <distance author1="Amir Darehshoorzadeh" author2="Mehdi Dehghan" distance="1"/>
+  <distance author1="Mehdi Dehghan" author2="Arash Nasiri Eghbali" distance="1"/>
+  <distance author1="Mehdi Dehghan" author2="M. Reza Jahed Motlagh" distance="1"/>
+  <distance author1="Mehdi Dehghan" author2="Hadi Sanjani" distance="1"/>
+  <distance author1="Abderrahim Benslimane" author2="C&#xE9;dric Ferraris" distance="1"/>
+  <distance author1="Abderrahim Benslimane" author2="Abdelhakim Hafid" distance="1"/>
+  <distance author1="C&#xE9;dric Ferraris" author2="Abdelhakim Hafid" distance="1"/>
+  <distance author1="Biswajit Panja" author2="Sanjay Kumar Madria" distance="1"/>
+  <distance author1="XiaoRan Wang" author2="Satoshi Fujita" distance="1"/>
+  <distance author1="XiaoRan Wang" author2="Shigeaki Tagashira" distance="1"/>
+  <distance author1="Shigeaki Tagashira" author2="Satoshi Fujita" distance="1"/>
+  <distance author1="Kevin M. Lillis" author2="Imran A. Pirwani" distance="1"/>
+  <distance author1="Kevin M. Lillis" author2="Sriram V. Pemmaraju" distance="1"/>
+  <distance author1="Sriram V. Pemmaraju" author2="Imran A. Pirwani" distance="1"/>
+  <distance author1="Fabian Garcia Nocetti" author2="Julio Solano-Gonz&#xE1;lez" distance="1"/>
+  <distance author1="Fabian Garcia Nocetti" author2="Ivan Stojmenovic" distance="1"/>
+  <distance author1="Fabian Garcia Nocetti" author2="Francisco Javier Ovalle-Mart&#xED;nez" distance="1"/>
+  <distance author1="Francisco Javier Ovalle-Mart&#xED;nez" author2="Ivan Stojmenovic" distance="1"/>
+  <distance author1="Francisco Javier Ovalle-Mart&#xED;nez" author2="Julio Solano-Gonz&#xE1;lez" distance="1"/>
+  <distance author1="Julio Solano-Gonz&#xE1;lez" author2="Ivan Stojmenovic" distance="1"/>
+  <distance author1="Mohamed Aly" author2="Anandha Gopalan" distance="1"/>
+  <distance author1="Edgar Ch&#xE1;vez" author2="Nathalie Mitton" distance="1"/>
+  <distance author1="Edgar Ch&#xE1;vez" author2="H&#xE9;ctor Tejeda" distance="1"/>
+  <distance author1="Nathalie Mitton" author2="H&#xE9;ctor Tejeda" distance="1"/>
+  <distance author1="Arash Nasiri Eghbali" author2="Hadi Sanjani" distance="1"/>
+  <distance author1="Shukor A. Razak" author2="Phillip J. Brooke" distance="1"/>
+  <distance author1="Shukor A. Razak" author2="Steven Furnell" distance="1"/>
+  <distance author1="Shukor A. Razak" author2="Nathan L. Clarke" distance="1"/>
+  <distance author1="Steven Furnell" author2="Phillip J. Brooke" distance="1"/>
+  <distance author1="Steven Furnell" author2="Nathan L. Clarke" distance="1"/>
+  <distance author1="Nathan L. Clarke" author2="Phillip J. Brooke" distance="1"/>
+  <distance author1="Haifeng Li" author2="Hong Chen" distance="1"/>
+  <distance author1="Dexian Zhang" author2="Zhixiao Yang" distance="1"/>
+  <distance author1="Dexian Zhang" author2="Ziqiang Wang" distance="1"/>
+  <distance author1="Dexian Zhang" author2="Yanfeng Fan" distance="1"/>
+  <distance author1="Zhixiao Yang" author2="Yanfeng Fan" distance="1"/>
+  <distance author1="Zhixiao Yang" author2="Ziqiang Wang" distance="1"/>
+  <distance author1="Yanfeng Fan" author2="Ziqiang Wang" distance="1"/>
+  <distance author1="Huaqiang Yuan" author2="Wenbin He" distance="1"/>
+  <distance author1="Huaqiang Yuan" author2="Chao Qu" distance="1"/>
+  <distance author1="Huaqiang Yuan" author2="Wei Tan" distance="1"/>
+  <distance author1="Huaqiang Yuan" author2="Jie Zhang" distance="1"/>
+  <distance author1="Huaqiang Yuan" author2="Yaxun Wang" distance="1"/>
+  <distance author1="Yaxun Wang" author2="Wenbin He" distance="1"/>
+  <distance author1="Yaxun Wang" author2="Jie Zhang" distance="1"/>
+  <distance author1="Yaxun Wang" author2="Chao Qu" distance="1"/>
+  <distance author1="Yaxun Wang" author2="Wei Tan" distance="1"/>
+  <distance author1="Jie Zhang" author2="Wenbin He" distance="1"/>
+  <distance author1="Jie Zhang" author2="Chao Qu" distance="1"/>
+  <distance author1="Jie Zhang" author2="Wei Tan" distance="1"/>
+  <distance author1="Wei Tan" author2="Wenbin He" distance="1"/>
+  <distance author1="Wei Tan" author2="Chao Qu" distance="1"/>
+  <distance author1="Chao Qu" author2="Wenbin He" distance="1"/>
+  <distance author1="Xianhua Zeng" author2="Siwei Luo" distance="1"/>
+  <distance author1="Kejia Zhang" author2="Zhang Wei" distance="2"/>
+  <distance author1="Kejia Zhang" author2="Haiwei Pan" distance="2"/>
+  <distance author1="Kejia Zhang" author2="Qilong Han" distance="2"/>
+  <distance author1="Kejia Zhang" author2="Jianzhong Li" distance="1"/>
+  <distance author1="Kejia Zhang" author2="Xiaoqin Xie" distance="2"/>
+  <distance author1="Kejia Zhang" author2="Hong Gao" distance="1"/>
+  <distance author1="Kejia Zhang" author2="Shengfei Shi" distance="1"/>
+  <distance author1="Shengfei Shi" author2="Qilong Han" distance="2"/>
+  <distance author1="Shengfei Shi" author2="Zhang Wei" distance="2"/>
+  <distance author1="Shengfei Shi" author2="Xiaoqin Xie" distance="2"/>
+  <distance author1="Shengfei Shi" author2="Hong Gao" distance="1"/>
+  <distance author1="Shengfei Shi" author2="Haiwei Pan" distance="2"/>
+  <distance author1="Shengfei Shi" author2="Jianzhong Li" distance="1"/>
+  <distance author1="Hong Gao" author2="Xiaoqin Xie" distance="2"/>
+  <distance author1="Hong Gao" author2="Zhang Wei" distance="2"/>
+  <distance author1="Hong Gao" author2="Haiwei Pan" distance="2"/>
+  <distance author1="Hong Gao" author2="Jianzhong Li" distance="1"/>
+  <distance author1="Hong Gao" author2="Qilong Han" distance="2"/>
+  <distance author1="Jianzhong Li" author2="Xiaoqin Xie" distance="1"/>
+  <distance author1="Jianzhong Li" author2="Zhang Wei" distance="1"/>
+  <distance author1="Jianzhong Li" author2="Qilong Han" distance="1"/>
+  <distance author1="Jianzhong Li" author2="Haiwei Pan" distance="1"/>
+  <distance author1="Jing Peng" author2="Jun Zhu" distance="2"/>
+  <distance author1="Jing Peng" author2="Jie Zuo" distance="2"/>
+  <distance author1="Jing Peng" author2="Peng Chen" distance="2"/>
+  <distance author1="Jing Peng" author2="An-long Chen" distance="1"/>
+  <distance author1="Jing Peng" author2="Shaojie Qiao" distance="2"/>
+  <distance author1="Jing Peng" author2="Jianjun Hu" distance="1"/>
+  <distance author1="Jing Peng" author2="Jing Zhang" distance="1"/>
+  <distance author1="Jing Peng" author2="Lei Duan" distance="1"/>
+  <distance author1="Jing Peng" author2="Tao Zeng" distance="2"/>
+  <distance author1="Jing Peng" author2="Jiangtao Qiu" distance="2"/>
+  <distance author1="Jing Peng" author2="Changjie Tang" distance="1"/>
+  <distance author1="Jing Peng" author2="Dongqing Yang" distance="1"/>
+  <distance author1="Dongqing Yang" author2="Peng Chen" distance="2"/>
+  <distance author1="Dongqing Yang" author2="Jun Zhu" distance="2"/>
+  <distance author1="Dongqing Yang" author2="Jing Zhang" distance="1"/>
+  <distance author1="Dongqing Yang" author2="Lei Duan" distance="1"/>
+  <distance author1="Dongqing Yang" author2="Shaojie Qiao" distance="2"/>
+  <distance author1="Dongqing Yang" author2="An-long Chen" distance="1"/>
+  <distance author1="Dongqing Yang" author2="Jianjun Hu" distance="1"/>
+  <distance author1="Dongqing Yang" author2="Jiangtao Qiu" distance="2"/>
+  <distance author1="Dongqing Yang" author2="Jie Zuo" distance="2"/>
+  <distance author1="Dongqing Yang" author2="Tao Zeng" distance="2"/>
+  <distance author1="Dongqing Yang" author2="Changjie Tang" distance="1"/>
+  <distance author1="Changjie Tang" author2="Jie Zuo" distance="1"/>
+  <distance author1="Changjie Tang" author2="Jun Zhu" distance="1"/>
+  <distance author1="Changjie Tang" author2="Tao Zeng" distance="1"/>
+  <distance author1="Changjie Tang" author2="Jianjun Hu" distance="1"/>
+  <distance author1="Changjie Tang" author2="Jiangtao Qiu" distance="1"/>
+  <distance author1="Changjie Tang" author2="Peng Chen" distance="1"/>
+  <distance author1="Changjie Tang" author2="Shaojie Qiao" distance="1"/>
+  <distance author1="Changjie Tang" author2="Lei Duan" distance="1"/>
+  <distance author1="Changjie Tang" author2="Jing Zhang" distance="1"/>
+  <distance author1="Changjie Tang" author2="An-long Chen" distance="1"/>
+  <distance author1="Jing Zhang" author2="Jianjun Hu" distance="1"/>
+  <distance author1="Lizhen Wang" author2="Jim Yip" distance="1"/>
+  <distance author1="Lizhen Wang" author2="Joan Lu" distance="1"/>
+  <distance author1="Lizhen Wang" author2="Junli Lu" distance="1"/>
+  <distance author1="Junli Lu" author2="Jim Yip" distance="1"/>
+  <distance author1="Junli Lu" author2="Joan Lu" distance="1"/>
+  <distance author1="Joan Lu" author2="Jim Yip" distance="1"/>
+  <distance author1="Shuliang Wang" author2="Xinzhou Wang" distance="1"/>
+  <distance author1="Lay-Ki Soon" author2="Sang Ho Lee" distance="1"/>
+  <distance author1="Hao-ming Wang" author2="Ye Guo" distance="1"/>
+  <distance author1="Hui Yang" author2="Yuan Lin" distance="2"/>
+  <distance author1="Hui Yang" author2="Jun He" distance="1"/>
+  <distance author1="Hui Yang" author2="Hongyan Liu" distance="1"/>
+  <distance author1="Hongyan Liu" author2="Yuan Lin" distance="1"/>
+  <distance author1="Hongyan Liu" author2="Jun He" distance="1"/>
+  <distance author1="Yi Guo" author2="Junbin Gao" distance="1"/>
+  <distance author1="Yi Guo" author2="Paul Wing Hing Kwan" distance="1"/>
+  <distance author1="Paul Wing Hing Kwan" author2="Junbin Gao" distance="1"/>
+  <distance author1="Cary Sweet" author2="Tansel &#xD6;zyer" distance="1"/>
+  <distance author1="Cary Sweet" author2="Reda Alhajj" distance="1"/>
+  <distance author1="Tansel &#xD6;zyer" author2="Reda Alhajj" distance="1"/>
+  <distance author1="Xue Wang" author2="Sheng Wang" distance="1"/>
+  <distance author1="Xue Wang" author2="Junjie Ma" distance="1"/>
+  <distance author1="Sheng Wang" author2="Junjie Ma" distance="1"/>
+  <distance author1="Xunkai Wei" author2="Yinghong Li" distance="1"/>
+  <distance author1="Xunkai Wei" author2="Yufei Li" distance="1"/>
+  <distance author1="Yinghong Li" author2="Yufei Li" distance="1"/>
+  <distance author1="Xiangqian Wu" author2="Ning Qi" distance="1"/>
+  <distance author1="Xiangqian Wu" author2="Kuanquan Wang" distance="1"/>
+  <distance author1="Xiangqian Wu" author2="David Zhang" distance="1"/>
+  <distance author1="David Zhang" author2="Kuanquan Wang" distance="1"/>
+  <distance author1="David Zhang" author2="Ning Qi" distance="1"/>
+  <distance author1="Kuanquan Wang" author2="Ning Qi" distance="1"/>
+  <distance author1="Xin Xu" author2="Henry Mok" distance="2"/>
+  <distance author1="Xin Xu" author2="Tao Wu" distance="1"/>
+  <distance author1="Xin Xu" author2="Carey Goh" distance="2"/>
+  <distance author1="Xin Xu" author2="Rob Law" distance="1"/>
+  <distance author1="Rob Law" author2="Carey Goh" distance="1"/>
+  <distance author1="Rob Law" author2="Tao Wu" distance="1"/>
+  <distance author1="Rob Law" author2="Henry Mok" distance="1"/>
+  <distance author1="Komkrit Udommanetanakit" author2="Kitsana Waiyamai" distance="1"/>
+  <distance author1="Komkrit Udommanetanakit" author2="Peera Liewlom" distance="2"/>
+  <distance author1="Komkrit Udommanetanakit" author2="Thanawin Rakthanmanon" distance="1"/>
+  <distance author1="Thanawin Rakthanmanon" author2="Peera Liewlom" distance="1"/>
+  <distance author1="Thanawin Rakthanmanon" author2="Kitsana Waiyamai" distance="1"/>
+  <distance author1="Kitsana Waiyamai" author2="Peera Liewlom" distance="1"/>
+  <distance author1="Julien Velcin" author2="Jean-Gabriel Ganascia" distance="1"/>
+  <distance author1="Morteza Haghir Chehreghani" author2="Hassan Abolhassani" distance="1"/>
+  <distance author1="Lili Cheng" author2="Jun Ma" distance="1"/>
+  <distance author1="Lili Cheng" author2="Jianpei Zhang" distance="1"/>
+  <distance author1="Lili Cheng" author2="Jing Yang" distance="1"/>
+  <distance author1="Jianpei Zhang" author2="Jing Yang" distance="1"/>
+  <distance author1="Jianpei Zhang" author2="Jun Ma" distance="1"/>
+  <distance author1="Jing Yang" author2="Jun Ma" distance="1"/>
+  <distance author1="Chuang-Cheng Chiu" author2="Chieh-Yuan Tsai" distance="1"/>
+  <distance author1="David Da Costa" author2="Gilles Venturini" distance="1"/>
+  <distance author1="Darren Davis" author2="Eric Jiang" distance="1"/>
+  <distance author1="Xiangjun Dong" author2="Donghua Zhu" distance="1"/>
+  <distance author1="Xiangjun Dong" author2="Xiaodan Zhang" distance="1"/>
+  <distance author1="Xiangjun Dong" author2="Xuelin Shi" distance="1"/>
+  <distance author1="Xiangjun Dong" author2="Zhendong Niu" distance="1"/>
+  <distance author1="Zhendong Niu" author2="Xiaodan Zhang" distance="1"/>
+  <distance author1="Zhendong Niu" author2="Donghua Zhu" distance="1"/>
+  <distance author1="Zhendong Niu" author2="Xuelin Shi" distance="1"/>
+  <distance author1="Xuelin Shi" author2="Xiaodan Zhang" distance="1"/>
+  <distance author1="Xuelin Shi" author2="Donghua Zhu" distance="1"/>
+  <distance author1="Xiaodan Zhang" author2="Donghua Zhu" distance="1"/>
+  <distance author1="Murat G&#xF6;ksedef" author2="Sule G&#xFC;nd&#xFC;z &#xD6;g&#xFC;d&#xFC;c&#xFC;" distance="1"/>
+  <distance author1="Hang Guo" author2="Xuesong Yan" distance="3"/>
+  <distance author1="Hang Guo" author2="Lizhu Zhou" distance="1"/>
+  <distance author1="Hang Guo" author2="Shousong Hu" distance="4"/>
+  <distance author1="Hang Guo" author2="Dengfeng Zhang" distance="4"/>
+  <distance author1="Hang Guo" author2="Liangxiao Jiang" distance="2"/>
+  <distance author1="Hang Guo" author2="Dianhong Wang" distance="3"/>
+  <distance author1="Hang Guo" author2="Zhihua Cai" distance="3"/>
+  <distance author1="Hang Guo" author2="Zhiquan Wang" distance="4"/>
+  <distance author1="Lizhu Zhou" author2="Zhihua Cai" distance="2"/>
+  <distance author1="Lizhu Zhou" author2="Xuesong Yan" distance="2"/>
+  <distance author1="Lizhu Zhou" author2="Dengfeng Zhang" distance="3"/>
+  <distance author1="Lizhu Zhou" author2="Shousong Hu" distance="3"/>
+  <distance author1="Lizhu Zhou" author2="Dianhong Wang" distance="2"/>
+  <distance author1="Lizhu Zhou" author2="Zhiquan Wang" distance="3"/>
+  <distance author1="Lizhu Zhou" author2="Liangxiao Jiang" distance="1"/>
+  <distance author1="Liangxiao Jiang" author2="Zhiquan Wang" distance="2"/>
+  <distance author1="Liangxiao Jiang" author2="Xuesong Yan" distance="1"/>
+  <distance author1="Liangxiao Jiang" author2="Dianhong Wang" distance="1"/>
+  <distance author1="Liangxiao Jiang" author2="Dengfeng Zhang" distance="2"/>
+  <distance author1="Liangxiao Jiang" author2="Shousong Hu" distance="2"/>
+  <distance author1="Liangxiao Jiang" author2="Zhihua Cai" distance="1"/>
+  <distance author1="Dianhong Wang" author2="Shousong Hu" distance="1"/>
+  <distance author1="Dianhong Wang" author2="Xuesong Yan" distance="1"/>
+  <distance author1="Dianhong Wang" author2="Dengfeng Zhang" distance="1"/>
+  <distance author1="Dianhong Wang" author2="Zhiquan Wang" distance="1"/>
+  <distance author1="Dianhong Wang" author2="Zhihua Cai" distance="1"/>
+  <distance author1="Zhihua Cai" author2="Xuesong Yan" distance="1"/>
+  <distance author1="Cheqing Jin" author2="Weibin Guo" distance="1"/>
+  <distance author1="Bo Jin" author2="Yanjun Shi" distance="1"/>
+  <distance author1="Bo Jin" author2="Hongfei Teng" distance="1"/>
+  <distance author1="Bo Jin" author2="Fuzheng Qu" distance="1"/>
+  <distance author1="Hongfei Teng" author2="Yanjun Shi" distance="1"/>
+  <distance author1="Hongfei Teng" author2="Fuzheng Qu" distance="1"/>
+  <distance author1="Yanjun Shi" author2="Fuzheng Qu" distance="1"/>
+  <distance author1="Khwunta Kirimasthong" author2="Chinae Thammarongtham" distance="1"/>
+  <distance author1="Khwunta Kirimasthong" author2="Sukon Prasitwattanaseree" distance="1"/>
+  <distance author1="Khwunta Kirimasthong" author2="Jeerayut Chaijaruwanich" distance="1"/>
+  <distance author1="Khwunta Kirimasthong" author2="Aompilai Manorat" distance="1"/>
+  <distance author1="Aompilai Manorat" author2="Sukon Prasitwattanaseree" distance="1"/>
+  <distance author1="Aompilai Manorat" author2="Chinae Thammarongtham" distance="1"/>
+  <distance author1="Aompilai Manorat" author2="Jeerayut Chaijaruwanich" distance="1"/>
+  <distance author1="Jeerayut Chaijaruwanich" author2="Chinae Thammarongtham" distance="1"/>
+  <distance author1="Jeerayut Chaijaruwanich" author2="Sukon Prasitwattanaseree" distance="1"/>
+  <distance author1="Sukon Prasitwattanaseree" author2="Chinae Thammarongtham" distance="1"/>
+  <distance author1="K. Anil Kumar" author2="C. Pandu Rangan" distance="1"/>
+  <distance author1="K. Anil Kumar" author2="P. Krishna Prasad" distance="2"/>
+  <distance author1="C. Pandu Rangan" author2="P. Krishna Prasad" distance="1"/>
+  <distance author1="Yang Lan" author2="Daniel Neagu" distance="1"/>
+  <distance author1="Henry Mok" author2="Carey Goh" distance="1"/>
+  <distance author1="Jun-Bao Li" author2="Shu-Chuan Chu" distance="1"/>
+  <distance author1="Jun-Bao Li" author2="Jeng-Shyang Pan" distance="1"/>
+  <distance author1="Shu-Chuan Chu" author2="Jeng-Shyang Pan" distance="1"/>
+  <distance author1="Aifang Zhang" author2="Li Wang" distance="1"/>
+  <distance author1="Aifang Zhang" author2="Dong Li" distance="1"/>
+  <distance author1="Dong Li" author2="Li Wang" distance="1"/>
+  <distance author1="Renpu Li" author2="Lihua Song" distance="1"/>
+  <distance author1="Renpu Li" author2="Yongsheng Zhao" distance="1"/>
+  <distance author1="Renpu Li" author2="Fuzeng Zhang" distance="1"/>
+  <distance author1="Yongsheng Zhao" author2="Lihua Song" distance="1"/>
+  <distance author1="Yongsheng Zhao" author2="Fuzeng Zhang" distance="1"/>
+  <distance author1="Fuzeng Zhang" author2="Lihua Song" distance="1"/>
+  <distance author1="Yubao Liu" author2="Jian Yin" distance="1"/>
+  <distance author1="Yubao Liu" author2="Ada Wai-Chee Fu" distance="1"/>
+  <distance author1="Yubao Liu" author2="Jiarong Cai" distance="1"/>
+  <distance author1="Jiarong Cai" author2="Ada Wai-Chee Fu" distance="1"/>
+  <distance author1="Jiarong Cai" author2="Jian Yin" distance="1"/>
+  <distance author1="Jian Yin" author2="Ada Wai-Chee Fu" distance="1"/>
+  <distance author1="Hong Liu" author2="Haodi Feng" distance="1"/>
+  <distance author1="Hong Liu" author2="Daming Zhu" distance="1"/>
+  <distance author1="Haodi Feng" author2="Daming Zhu" distance="1"/>
+  <distance author1="Feng Liu" author2="Fengzhan Tian" distance="1"/>
+  <distance author1="Feng Liu" author2="QiLiang Zhu" distance="1"/>
+  <distance author1="Fengzhan Tian" author2="QiLiang Zhu" distance="1"/>
+  <distance author1="Nasrullah Memon" author2="David L. Hicks" distance="1"/>
+  <distance author1="Nasrullah Memon" author2="Henrik Legind Larsen" distance="1"/>
+  <distance author1="David L. Hicks" author2="Henrik Legind Larsen" distance="1"/>
+  <distance author1="Oyun-Erdene Namsrai" author2="Keun Ho Ryu" distance="1"/>
+  <distance author1="Juggapong Natwichai" author2="Maria E. Orlowska" distance="1"/>
+  <distance author1="Juggapong Natwichai" author2="Xingzhi Sun" distance="1"/>
+  <distance author1="Maria E. Orlowska" author2="Xingzhi Sun" distance="1"/>
+  <distance author1="Haiwei Pan" author2="Zhang Wei" distance="1"/>
+  <distance author1="Haiwei Pan" author2="Xiaoqin Xie" distance="1"/>
+  <distance author1="Haiwei Pan" author2="Qilong Han" distance="1"/>
+  <distance author1="Qilong Han" author2="Zhang Wei" distance="1"/>
+  <distance author1="Qilong Han" author2="Xiaoqin Xie" distance="1"/>
+  <distance author1="Xiaoqin Xie" author2="Zhang Wei" distance="1"/>
+  <distance author1="An-long Chen" author2="Lei Duan" distance="1"/>
+  <distance author1="Jiangtao Qiu" author2="Peng Chen" distance="1"/>
+  <distance author1="Jiangtao Qiu" author2="Jun Zhu" distance="1"/>
+  <distance author1="Jiangtao Qiu" author2="Jie Zuo" distance="1"/>
+  <distance author1="Jiangtao Qiu" author2="Shaojie Qiao" distance="1"/>
+  <distance author1="Jiangtao Qiu" author2="Tao Zeng" distance="1"/>
+  <distance author1="Tao Zeng" author2="Jun Zhu" distance="1"/>
+  <distance author1="Tao Zeng" author2="Peng Chen" distance="1"/>
+  <distance author1="Tao Zeng" author2="Shaojie Qiao" distance="1"/>
+  <distance author1="Tao Zeng" author2="Jie Zuo" distance="1"/>
+  <distance author1="Shaojie Qiao" author2="Peng Chen" distance="1"/>
+  <distance author1="Shaojie Qiao" author2="Jie Zuo" distance="1"/>
+  <distance author1="Shaojie Qiao" author2="Jun Zhu" distance="1"/>
+  <distance author1="Jie Zuo" author2="Jun Zhu" distance="1"/>
+  <distance author1="Jie Zuo" author2="Peng Chen" distance="1"/>
+  <distance author1="Peng Chen" author2="Jun Zhu" distance="1"/>
+  <distance author1="Muhammad Akram Shaikh" author2="Yixu Song" distance="1"/>
+  <distance author1="Muhammad Akram Shaikh" author2="Zehong Yang" distance="1"/>
+  <distance author1="Muhammad Akram Shaikh" author2="Jiaxin Wang" distance="1"/>
+  <distance author1="Jiaxin Wang" author2="Zehong Yang" distance="1"/>
+  <distance author1="Jiaxin Wang" author2="Yixu Song" distance="1"/>
+  <distance author1="Zehong Yang" author2="Yixu Song" distance="1"/>
+  <distance author1="Lingyu Sun" author2="Ming Leng" distance="1"/>
+  <distance author1="Lingyu Sun" author2="Songnian Yu" distance="1"/>
+  <distance author1="Ming Leng" author2="Songnian Yu" distance="1"/>
+  <distance author1="Xuhui Wang" author2="Dinghao Shi" distance="1"/>
+  <distance author1="Xuhui Wang" author2="Ping Shu" distance="1"/>
+  <distance author1="Xuhui Wang" author2="Li Cao" distance="1"/>
+  <distance author1="Xuhui Wang" author2="Shengguo Huang" distance="1"/>
+  <distance author1="Shengguo Huang" author2="Ping Shu" distance="1"/>
+  <distance author1="Shengguo Huang" author2="Dinghao Shi" distance="1"/>
+  <distance author1="Shengguo Huang" author2="Li Cao" distance="1"/>
+  <distance author1="Li Cao" author2="Ping Shu" distance="1"/>
+  <distance author1="Li Cao" author2="Dinghao Shi" distance="1"/>
+  <distance author1="Dinghao Shi" author2="Ping Shu" distance="1"/>
+  <distance author1="Shaun Bangay" author2="Bruce Alcock" distance="1"/>
+  <distance author1="Shaun Bangay" author2="Kevin R. Glass" distance="1"/>
+  <distance author1="Nicolas Menzel" author2="Michael Guthe" distance="1"/>
+  <distance author1="Kevin R. Glass" author2="Bruce Alcock" distance="1"/>
+  <distance author1="Stefan Maass" author2="J&#xFC;rgen D&#xF6;llner" distance="1"/>
+  <distance author1="Mehdi Baba-ali" author2="Yves Bertrand" distance="1"/>
+  <distance author1="Mehdi Baba-ali" author2="David Marcheix" distance="1"/>
+  <distance author1="Mehdi Baba-ali" author2="Xavier Skapin" distance="1"/>
+  <distance author1="David Marcheix" author2="Yves Bertrand" distance="1"/>
+  <distance author1="David Marcheix" author2="Xavier Skapin" distance="1"/>
+  <distance author1="Xavier Skapin" author2="Yves Bertrand" distance="1"/>
+  <distance author1="Johannes Venter" author2="Nico Zink" distance="2"/>
+  <distance author1="Johannes Venter" author2="Alexandre Hardy" distance="1"/>
+  <distance author1="Johannes Venter" author2="Duncan Andrew Keith Mc Roberts" distance="2"/>
+  <distance author1="Alexandre Hardy" author2="Nico Zink" distance="1"/>
+  <distance author1="Alexandre Hardy" author2="Duncan Andrew Keith Mc Roberts" distance="1"/>
+  <distance author1="Zhiying He" author2="Xiaohui Liang" distance="1"/>
+  <distance author1="Mauricio Radovan" author2="Albert E. Kotz&#xE9;" distance="1"/>
+  <distance author1="Mauricio Radovan" author2="Laurette Pretorius" distance="1"/>
+  <distance author1="Laurette Pretorius" author2="Albert E. Kotz&#xE9;" distance="1"/>
+  <distance author1="Lars Andreas Ek" author2="Rune Vistnes" distance="1"/>
+  <distance author1="Lars Andreas Ek" author2="Odd Erik Gundersen" distance="1"/>
+  <distance author1="Rune Vistnes" author2="Odd Erik Gundersen" distance="1"/>
+  <distance author1="Meva Dodo" author2="Patrice Torguet" distance="1"/>
+  <distance author1="Meva Dodo" author2="Jean-Pierre Jessel" distance="1"/>
+  <distance author1="Meva Dodo" author2="Fenohery Andriamanampisoa" distance="1"/>
+  <distance author1="Fenohery Andriamanampisoa" author2="Jean-Pierre Jessel" distance="1"/>
+  <distance author1="Fenohery Andriamanampisoa" author2="Patrice Torguet" distance="1"/>
+  <distance author1="Patrice Torguet" author2="Jean-Pierre Jessel" distance="1"/>
+  <distance author1="Corey Manders" author2="Tang Ka Yin" distance="1"/>
+  <distance author1="Corey Manders" author2="Farzam Farbiz" distance="1"/>
+  <distance author1="Corey Manders" author2="Chong Jyh Herng" distance="1"/>
+  <distance author1="Farzam Farbiz" author2="Chong Jyh Herng" distance="1"/>
+  <distance author1="Farzam Farbiz" author2="Tang Ka Yin" distance="1"/>
+  <distance author1="Chong Jyh Herng" author2="Tang Ka Yin" distance="1"/>
+  <distance author1="Bernardt Duvenhage" author2="J. P. Delport" distance="1"/>
+  <distance author1="Bernardt Duvenhage" author2="Anita Louis" distance="1"/>
+  <distance author1="J. P. Delport" author2="Anita Louis" distance="1"/>
+  <distance author1="Olivier Cl&#xE9;ment" author2="Jocelyn Benoit" distance="1"/>
+  <distance author1="Olivier Cl&#xE9;ment" author2="Eric Paquette" distance="1"/>
+  <distance author1="Jocelyn Benoit" author2="Eric Paquette" distance="1"/>
+  <distance author1="Jesper Mortensen" author2="Mel Slater" distance="1"/>
+  <distance author1="Jesper Mortensen" author2="Pankaj Khanna" distance="1"/>
+  <distance author1="Pankaj Khanna" author2="Mel Slater" distance="1"/>
+  <distance author1="David Jacka" author2="Ashley Reid" distance="1"/>
+  <distance author1="David Jacka" author2="Bruce Merry" distance="1"/>
+  <distance author1="David Jacka" author2="James E. Gain" distance="1"/>
+  <distance author1="Ashley Reid" author2="James E. Gain" distance="1"/>
+  <distance author1="Ashley Reid" author2="Bruce Merry" distance="1"/>
+  <distance author1="Bruce Merry" author2="James E. Gain" distance="1"/>
+  <distance author1="Mariam Sensalire" author2="Patrick Ogao" distance="1"/>
+  <distance author1="Barbora Kozl&#xED;kov&#xE1;" author2="Jir&#xED; Sochor" distance="1"/>
+  <distance author1="Barbora Kozl&#xED;kov&#xE1;" author2="Filip Andres" distance="1"/>
+  <distance author1="Filip Andres" author2="Jir&#xED; Sochor" distance="1"/>
+  <distance author1="Andrej Varchola" author2="Anton Vasko" distance="1"/>
+  <distance author1="Andrej Varchola" author2="Leonid I. Dimitrov" distance="1"/>
+  <distance author1="Andrej Varchola" author2="Viliam Solcany" distance="1"/>
+  <distance author1="Andrej Varchola" author2="Milos Sr&#xE1;mek" distance="1"/>
+  <distance author1="Anton Vasko" author2="Milos Sr&#xE1;mek" distance="1"/>
+  <distance author1="Anton Vasko" author2="Viliam Solcany" distance="1"/>
+  <distance author1="Anton Vasko" author2="Leonid I. Dimitrov" distance="1"/>
+  <distance author1="Viliam Solcany" author2="Milos Sr&#xE1;mek" distance="1"/>
+  <distance author1="Viliam Solcany" author2="Leonid I. Dimitrov" distance="1"/>
+  <distance author1="Leonid I. Dimitrov" author2="Milos Sr&#xE1;mek" distance="1"/>
+  <distance author1="Vit Kovalcik" author2="Jan Flasar" distance="1"/>
+  <distance author1="Vit Kovalcik" author2="Jiri Sochor" distance="1"/>
+  <distance author1="Jan Flasar" author2="Jiri Sochor" distance="1"/>
+  <distance author1="Alan Armitage" author2="Alan de-Ste-Croix" distance="1"/>
+  <distance author1="Alan Armitage" author2="Peter Wisniewski" distance="1"/>
+  <distance author1="Peter Wisniewski" author2="Alan de-Ste-Croix" distance="1"/>
+  <distance author1="P. Berthon" author2="C. B. Williams" distance="1"/>
+  <distance author1="Feng Li" author2="Michael Bourlakis" distance="1"/>
+  <distance author1="Feng Li" author2="Savvas Papagiannidis" distance="1"/>
+  <distance author1="Savanid Vatanasakdakul" author2="John D'Ambra" distance="1"/>
+  <distance author1="Liang-Chuan Wu" author2="Yao-Wen Hsu" distance="1"/>
+  <distance author1="Liang-Chuan Wu" author2="Chorng-Shyong Ong" distance="1"/>
+  <distance author1="Yao-Wen Hsu" author2="Chorng-Shyong Ong" distance="1"/>
+  <distance author1="Sid Ghosh" author2="Martijn Bertisen" distance="1"/>
+  <distance author1="Hokey Min" author2="Adrea Serpico" distance="1"/>
+  <distance author1="Hokey Min" author2="John Caltagirone" distance="1"/>
+  <distance author1="Hokey Min" author2="Wenbin Yu" distance="1"/>
+  <distance author1="John Caltagirone" author2="Adrea Serpico" distance="1"/>
+  <distance author1="Savvas Papagiannidis" author2="Michael Bourlakis" distance="1"/>
+  <distance author1="Heather E. Sill" author2="Sandra L. Fisher" distance="1"/>
+  <distance author1="Heather E. Sill" author2="Michael E. Wasserman" distance="1"/>
+  <distance author1="Sandra L. Fisher" author2="Michael E. Wasserman" distance="1"/>
+  <distance author1="Chee Yew Wong" author2="John Johansen" distance="1"/>
+  <distance author1="Pin Luarn" author2="Max I. Jen Chen" distance="1"/>
+  <distance author1="Pin Luarn" author2="Peter Kai Yang Lo" distance="1"/>
+  <distance author1="Max I. Jen Chen" author2="Peter Kai Yang Lo" distance="1"/>
+  <distance author1="Nevine AbouGhazaleh" author2="Daniel Moss&#xE9;" distance="1"/>
+  <distance author1="Nevine AbouGhazaleh" author2="Rami G. Melhem" distance="1"/>
+  <distance author1="Nevine AbouGhazaleh" author2="Bruce R. Childers" distance="1"/>
+  <distance author1="Bruce R. Childers" author2="Daniel Moss&#xE9;" distance="1"/>
+  <distance author1="Bruce R. Childers" author2="Rami G. Melhem" distance="1"/>
+  <distance author1="Daniel Moss&#xE9;" author2="Rami G. Melhem" distance="1"/>
+  <distance author1="Matthias Grumer" author2="Ulrich Neffe" distance="1"/>
+  <distance author1="Matthias Grumer" author2="Christian Steger" distance="1"/>
+  <distance author1="Matthias Grumer" author2="Andreas M&#xFC;hlberger" distance="1"/>
+  <distance author1="Matthias Grumer" author2="Manuel Wendt" distance="1"/>
+  <distance author1="Christian Steger" author2="Andreas M&#xFC;hlberger" distance="1"/>
+  <distance author1="Christian Steger" author2="Ulrich Neffe" distance="1"/>
+  <distance author1="Christian Steger" author2="Manuel Wendt" distance="1"/>
+  <distance author1="Manuel Wendt" author2="Andreas M&#xFC;hlberger" distance="1"/>
+  <distance author1="Manuel Wendt" author2="Ulrich Neffe" distance="1"/>
+  <distance author1="Andreas M&#xFC;hlberger" author2="Ulrich Neffe" distance="1"/>
+  <distance author1="Giacomo Paci" author2="Ulrich Kremer" distance="2"/>
+  <distance author1="Giacomo Paci" author2="Daniel A. Jim&#xE9;nez" distance="3"/>
+  <distance author1="Giacomo Paci" author2="Peter Schelkens" distance="2"/>
+  <distance author1="Giacomo Paci" author2="Paul Marchal" distance="1"/>
+  <distance author1="Giacomo Paci" author2="Christian W. Probst" distance="2"/>
+  <distance author1="Giacomo Paci" author2="Chunling Hu" distance="3"/>
+  <distance author1="Giacomo Paci" author2="Luca Benini" distance="1"/>
+  <distance author1="Giacomo Paci" author2="Francesco Poletti" distance="1"/>
+  <distance author1="Francesco Poletti" author2="Daniel A. Jim&#xE9;nez" distance="3"/>
+  <distance author1="Francesco Poletti" author2="Paul Marchal" distance="1"/>
+  <distance author1="Francesco Poletti" author2="Ulrich Kremer" distance="2"/>
+  <distance author1="Francesco Poletti" author2="Peter Schelkens" distance="2"/>
+  <distance author1="Francesco Poletti" author2="Chunling Hu" distance="3"/>
+  <distance author1="Francesco Poletti" author2="Christian W. Probst" distance="2"/>
+  <distance author1="Francesco Poletti" author2="Luca Benini" distance="1"/>
+  <distance author1="Luca Benini" author2="Peter Schelkens" distance="1"/>
+  <distance author1="Luca Benini" author2="Daniel A. Jim&#xE9;nez" distance="2"/>
+  <distance author1="Luca Benini" author2="Ulrich Kremer" distance="1"/>
+  <distance author1="Luca Benini" author2="Chunling Hu" distance="2"/>
+  <distance author1="Luca Benini" author2="Christian W. Probst" distance="1"/>
+  <distance author1="Luca Benini" author2="Paul Marchal" distance="1"/>
+  <distance author1="Vasanth Venkatachalam" author2="Michael Franz" distance="1"/>
+  <distance author1="Vasanth Venkatachalam" author2="Christian W. Probst" distance="1"/>
+  <distance author1="Vasanth Venkatachalam" author2="Peter Schelkens" distance="2"/>
+  <distance author1="Vasanth Venkatachalam" author2="Daniel A. Jim&#xE9;nez" distance="3"/>
+  <distance author1="Vasanth Venkatachalam" author2="Chunling Hu" distance="3"/>
+  <distance author1="Vasanth Venkatachalam" author2="Ulrich Kremer" distance="2"/>
+  <distance author1="Michael Franz" author2="Daniel A. Jim&#xE9;nez" distance="3"/>
+  <distance author1="Michael Franz" author2="Chunling Hu" distance="3"/>
+  <distance author1="Michael Franz" author2="Christian W. Probst" distance="1"/>
+  <distance author1="Michael Franz" author2="Ulrich Kremer" distance="2"/>
+  <distance author1="Michael Franz" author2="Peter Schelkens" distance="2"/>
+  <distance author1="Christian W. Probst" author2="Chunling Hu" distance="2"/>
+  <distance author1="Christian W. Probst" author2="Daniel A. Jim&#xE9;nez" distance="2"/>
+  <distance author1="Christian W. Probst" author2="Peter Schelkens" distance="1"/>
+  <distance author1="Christian W. Probst" author2="Ulrich Kremer" distance="1"/>
+  <distance author1="Gaurav Singh" author2="Sandeep K. Shukla" distance="1"/>
+  <distance author1="Jerry Hom" author2="Ulrich Kremer" distance="1"/>
+  <distance author1="Jerry Hom" author2="Daniel A. Jim&#xE9;nez" distance="2"/>
+  <distance author1="Jerry Hom" author2="Chunling Hu" distance="2"/>
+  <distance author1="Jerry Hom" author2="Peter Schelkens" distance="2"/>
+  <distance author1="Ulrich Kremer" author2="Peter Schelkens" distance="1"/>
+  <distance author1="Ulrich Kremer" author2="Chunling Hu" distance="1"/>
+  <distance author1="Ulrich Kremer" author2="Daniel A. Jim&#xE9;nez" distance="1"/>
+  <distance author1="Chunling Hu" author2="Daniel A. Jim&#xE9;nez" distance="1"/>
+  <distance author1="Aman Gayasen" author2="Mahmut T. Kandemir" distance="1"/>
+  <distance author1="Aman Gayasen" author2="Suresh Srinivasan" distance="1"/>
+  <distance author1="Aman Gayasen" author2="Narayanan Vijaykrishnan" distance="1"/>
+  <distance author1="Suresh Srinivasan" author2="Narayanan Vijaykrishnan" distance="1"/>
+  <distance author1="Suresh Srinivasan" author2="Mahmut T. Kandemir" distance="1"/>
+  <distance author1="Narayanan Vijaykrishnan" author2="Mahmut T. Kandemir" distance="1"/>
+  <distance author1="Jos&#xE9; L. Ayala" author2="Praveen Raghavan" distance="1"/>
+  <distance author1="Jos&#xE9; L. Ayala" author2="Francky Catthoor" distance="1"/>
+  <distance author1="Jos&#xE9; L. Ayala" author2="Diederik Verkest" distance="1"/>
+  <distance author1="Jos&#xE9; L. Ayala" author2="David Atienza" distance="1"/>
+  <distance author1="Jos&#xE9; L. Ayala" author2="Marisa L&#xF3;pez-Vallejo" distance="1"/>
+  <distance author1="Marisa L&#xF3;pez-Vallejo" author2="Diederik Verkest" distance="1"/>
+  <distance author1="Marisa L&#xF3;pez-Vallejo" author2="Praveen Raghavan" distance="1"/>
+  <distance author1="Marisa L&#xF3;pez-Vallejo" author2="Francky Catthoor" distance="1"/>
+  <distance author1="Marisa L&#xF3;pez-Vallejo" author2="David Atienza" distance="1"/>
+  <distance author1="David Atienza" author2="Francky Catthoor" distance="1"/>
+  <distance author1="David Atienza" author2="Diederik Verkest" distance="1"/>
+  <distance author1="David Atienza" author2="Praveen Raghavan" distance="1"/>
+  <distance author1="Praveen Raghavan" author2="Diederik Verkest" distance="1"/>
+  <distance author1="Praveen Raghavan" author2="Francky Catthoor" distance="1"/>
+  <distance author1="Francky Catthoor" author2="Diederik Verkest" distance="1"/>
+  <distance author1="R. Mart&#xED;nez-Guerra" author2="R. Gonz&#xE1;lez-Galan" distance="1"/>
+  <distance author1="R. Mart&#xED;nez-Guerra" author2="J. Cruz-Victoria" distance="1"/>
+  <distance author1="R. Mart&#xED;nez-Guerra" author2="Alberto Luviano-Ju&#xE1;rez" distance="1"/>
+  <distance author1="R. Gonz&#xE1;lez-Galan" author2="Alberto Luviano-Ju&#xE1;rez" distance="1"/>
+  <distance author1="R. Gonz&#xE1;lez-Galan" author2="J. Cruz-Victoria" distance="1"/>
+  <distance author1="Alberto Luviano-Ju&#xE1;rez" author2="J. Cruz-Victoria" distance="1"/>
+  <distance author1="B. Aylaj" author2="Mohamed Laabissi" distance="1"/>
+  <distance author1="B. Aylaj" author2="Mohamed E. Achhab" distance="1"/>
+  <distance author1="Mohamed E. Achhab" author2="Mohamed Laabissi" distance="1"/>
+  <distance author1="Yongliang Zhu" author2="Prabhakar R. Pagilla" distance="1"/>
+  <distance author1="Carlos Aguilar Ib&#xE1;&#xF1;ez" author2="Hebertt Sira-Ram&#xED;rez" distance="1"/>
+  <distance author1="Maria do Ros&#xE1;rio de Pinho" author2="Javier F. Rosenblueth" distance="1"/>
+  <distance author1="Magdi S. Mahmoud" author2="Mohamed N. Nounou" distance="1"/>
+  <distance author1="Magdi S. Mahmoud" author2="Hazem N. Nounou" distance="1"/>
+  <distance author1="Mohamed N. Nounou" author2="Hazem N. Nounou" distance="1"/>
+  <distance author1="Ker-Wei Yu" author2="Chang-Hua Lien" distance="1"/>
+  <distance author1="Fouad Mesquine" author2="Abdellatif Benlamkadem" distance="1"/>
+  <distance author1="Ren&#xE9; Dorville" author2="Abdennebi Omrane" distance="1"/>
+  <distance author1="Toshihiro Kobayashi" author2="Masahiro Oya" distance="1"/>
+  <distance author1="Toshihiro Kobayashi" author2="Tetsuzo Sakamoto" distance="1"/>
+  <distance author1="Tetsuzo Sakamoto" author2="Masahiro Oya" distance="1"/>
+  <distance author1="Rathinasamy Sakthivel" author2="Hiroshi Ito" distance="1"/>
+  <distance author1="J. Leventides" author2="N. Karcanias" distance="1"/>
+  <distance author1="Vassilios A. Tsachouridis" author2="Nicos Karcanias" distance="1"/>
+  <distance author1="Vassilios A. Tsachouridis" author2="Ian Postlethwaite" distance="1"/>
+  <distance author1="Nicos Karcanias" author2="Ian Postlethwaite" distance="1"/>
+  <distance author1="Tseng-Hsu Chien" author2="Guanrong Chen" distance="1"/>
+  <distance author1="Tseng-Hsu Chien" author2="Shu-Mei Guo" distance="1"/>
+  <distance author1="Tseng-Hsu Chien" author2="Jason Sheng Hong Tsai" distance="1"/>
+  <distance author1="Jason Sheng Hong Tsai" author2="Shu-Mei Guo" distance="1"/>
+  <distance author1="Jason Sheng Hong Tsai" author2="Guanrong Chen" distance="1"/>
+  <distance author1="Shu-Mei Guo" author2="Guanrong Chen" distance="1"/>
+  <distance author1="Fatima El Haoussi" author2="El Houssaine Tissir" distance="1"/>
+  <distance author1="Daniel Melchor-Aguilar" author2="Silviu-Iulian Niculescu" distance="1"/>
+  <distance author1="Daniel Melchor-Aguilar" author2="Keqin Gu" distance="2"/>
+  <distance author1="Daniel Melchor-Aguilar" author2="Constantin-Irinel Morarescu" distance="2"/>
+  <distance author1="Silviu-Iulian Niculescu" author2="Constantin-Irinel Morarescu" distance="1"/>
+  <distance author1="Silviu-Iulian Niculescu" author2="Keqin Gu" distance="1"/>
+  <distance author1="Nobuoki Eshima" author2="Minoru Tabata" distance="1"/>
+  <distance author1="Nobuoki Eshima" author2="Tohru Kohda" distance="1"/>
+  <distance author1="Tohru Kohda" author2="Minoru Tabata" distance="1"/>
+  <distance author1="J. D. Han" author2="Y. Y. Nie" distance="1"/>
+  <distance author1="J. D. Han" author2="Z. Jiang" distance="1"/>
+  <distance author1="Z. Jiang" author2="Y. Y. Nie" distance="1"/>
+  <distance author1="Xiaoming Bai" author2="Huimin Li" distance="1"/>
+  <distance author1="Xiaoming Bai" author2="Xiao-Song Yang" distance="1"/>
+  <distance author1="Xiao-Song Yang" author2="Huimin Li" distance="1"/>
+  <distance author1="Constantin-Irinel Morarescu" author2="Keqin Gu" distance="1"/>
+  <distance author1="Er-Wei Bai" author2="Yun Liu" distance="1"/>
+  <distance author1="Bing Sun" author2="Mi-Xia Wu" distance="1"/>
+  <distance author1="Anil Kumar" author2="Mohan C. Joshi" distance="1"/>
+  <distance author1="Anil Kumar" author2="Amiya K. Pani" distance="1"/>
+  <distance author1="Mohan C. Joshi" author2="Amiya K. Pani" distance="1"/>
+  <distance author1="Dag Von Lubitz" author2="Fr&#xE9;d&#xE9;ric Patricelli" distance="1"/>
+  <distance author1="Zvonko Kribel" author2="Stefan Bojnec" distance="1"/>
+  <distance author1="Wen-Hung Wu" author2="Deng-Yuan Huang" distance="1"/>
+  <distance author1="Wen-Hung Wu" author2="Hui-Ling Lu" distance="1"/>
+  <distance author1="Hui-Ling Lu" author2="Deng-Yuan Huang" distance="1"/>
+  <distance author1="Huei-Jin Wu" author2="Cheng-Lun Tsai" distance="1"/>
+  <distance author1="Huei-Jin Wu" author2="Ji-Tsung Ben Wu" distance="1"/>
+  <distance author1="Huei-Jin Wu" author2="Ming-Hsien Yang" distance="1"/>
+  <distance author1="Ming-Hsien Yang" author2="Ji-Tsung Ben Wu" distance="1"/>
+  <distance author1="Ming-Hsien Yang" author2="Cheng-Lun Tsai" distance="1"/>
+  <distance author1="Ji-Tsung Ben Wu" author2="Cheng-Lun Tsai" distance="1"/>
+  <distance author1="T. J. O'Neill" author2="Jack H. W. Penm" distance="1"/>
+  <distance author1="Juha-Matti Ranta" author2="Pornthep Anussornnitisarn" distance="3"/>
+  <distance author1="Juha-Matti Ranta" author2="Kongkiti Phusavat" distance="2"/>
+  <distance author1="Juha-Matti Ranta" author2="Pugdee Manaves" distance="2"/>
+  <distance author1="Juha-Matti Ranta" author2="Josu Takala" distance="1"/>
+  <distance author1="Josu Takala" author2="Kongkiti Phusavat" distance="1"/>
+  <distance author1="Josu Takala" author2="Pugdee Manaves" distance="1"/>
+  <distance author1="Josu Takala" author2="Pornthep Anussornnitisarn" distance="2"/>
+  <distance author1="Ming-Chun Tsai" author2="Kuang-Hsun Shih" distance="1"/>
+  <distance author1="Ming-Chun Tsai" author2="Jason C. H. Chen" distance="1"/>
+  <distance author1="Kuang-Hsun Shih" author2="Jason C. H. Chen" distance="1"/>
+  <distance author1="Kenneth W. Green Jr." author2="Dwayne Whitten" distance="1"/>
+  <distance author1="Kenneth W. Green Jr." author2="Subrata Chakrabarty" distance="1"/>
+  <distance author1="Subrata Chakrabarty" author2="Dwayne Whitten" distance="1"/>
+  <distance author1="Toshiki Ami" author2="Rainer Sommer" distance="1"/>
+  <distance author1="Ming-Chang Lee" author2="To Chang" distance="1"/>
+  <distance author1="Virupaxi Bagodi" author2="Biswajit Mahanty" distance="1"/>
+  <distance author1="Kerstin Jager" author2="Marko Torkkeli" distance="2"/>
+  <distance author1="Kerstin Jager" author2="Olli-Pekka Hilmola" distance="1"/>
+  <distance author1="Kerstin Jager" author2="Ville Ojanen" distance="2"/>
+  <distance author1="Kerstin Jager" author2="Pekka Salmi" distance="2"/>
+  <distance author1="Kerstin Jager" author2="Sandor Ujvari" distance="1"/>
+  <distance author1="Sandor Ujvari" author2="Marko Torkkeli" distance="2"/>
+  <distance author1="Sandor Ujvari" author2="Pekka Salmi" distance="2"/>
+  <distance author1="Sandor Ujvari" author2="Ville Ojanen" distance="2"/>
+  <distance author1="Sandor Ujvari" author2="Olli-Pekka Hilmola" distance="1"/>
+  <distance author1="Olli-Pekka Hilmola" author2="Ville Ojanen" distance="1"/>
+  <distance author1="Olli-Pekka Hilmola" author2="Marko Torkkeli" distance="1"/>
+  <distance author1="Olli-Pekka Hilmola" author2="Pekka Salmi" distance="1"/>
+  <distance author1="Kongkiti Phusavat" author2="Pugdee Manaves" distance="1"/>
+  <distance author1="Kongkiti Phusavat" author2="Pornthep Anussornnitisarn" distance="1"/>
+  <distance author1="Da-Wei Lin" author2="Yi-Ming Chen" distance="1"/>
+  <distance author1="Roberta Ann Barra" author2="Kenneth Griggs" distance="1"/>
+  <distance author1="Brett J. L. Landry" author2="Dinah Payne" distance="1"/>
+  <distance author1="Nilmini Wickramasinghe" author2="Rajeev K. Bali" distance="1"/>
+  <distance author1="Nilmini Wickramasinghe" author2="Steve Goldberg" distance="1"/>
+  <distance author1="William L. Smith" author2="Mohammad Chowdhury" distance="1"/>
+  <distance author1="Anne Wilcock" author2="Alejandra Colina" distance="1"/>
+  <distance author1="Mohd Rizal Abdul Razak" author2="Binshan Lin" distance="1"/>
+  <distance author1="Mohd Rizal Abdul Razak" author2="Siong Choy Chong" distance="1"/>
+  <distance author1="Siong Choy Chong" author2="Binshan Lin" distance="1"/>
+  <distance author1="Steve Goldberg" author2="Rajeev K. Bali" distance="1"/>
+  <distance author1="Eduardo Torres-Moraga" author2="Jose M. Moneva" distance="1"/>
+  <distance author1="Eduardo Torres-Moraga" author2="Luis Jara-Sarrua" distance="1"/>
+  <distance author1="Luis Jara-Sarrua" author2="Jose M. Moneva" distance="1"/>
+  <distance author1="Robert E. Miller" author2="Thomas W. Jones" distance="1"/>
+  <distance author1="Robert E. Miller" author2="Bill C. Hardgrave" distance="1"/>
+  <distance author1="Bill C. Hardgrave" author2="Thomas W. Jones" distance="1"/>
+  <distance author1="Pekka Salmi" author2="Marko Torkkeli" distance="1"/>
+  <distance author1="Pekka Salmi" author2="Ville Ojanen" distance="1"/>
+  <distance author1="Marko Torkkeli" author2="Ville Ojanen" distance="1"/>
+  <distance author1="Hsin-Hung Chen" author2="Ben-Chang Shia" distance="1"/>
+  <distance author1="Karmen Rodman" author2="Nada Trunk Sirca" distance="1"/>
+  <distance author1="Kai S. Koong" author2="June Wei" distance="1"/>
+  <distance author1="Kai S. Koong" author2="Lai C. Liu" distance="1"/>
+  <distance author1="Kai S. Koong" author2="Shuming Bai" distance="1"/>
+  <distance author1="Lai C. Liu" author2="June Wei" distance="1"/>
+  <distance author1="Lai C. Liu" author2="Shuming Bai" distance="1"/>
+  <distance author1="Shuming Bai" author2="June Wei" distance="1"/>
+  <distance author1="Abdelfattah Belghith" author2="Jean-Marie Bonnin" distance="1"/>
+  <distance author1="Abdelfattah Belghith" author2="Wafa Akkari" distance="1"/>
+  <distance author1="Wafa Akkari" author2="Jean-Marie Bonnin" distance="1"/>
+  <distance author1="Raffaele Bolla" author2="Roberto Bruschi" distance="1"/>
+  <distance author1="F&#xE1;bio Luciano Verdi" author2="Annikki Welin" distance="1"/>
+  <distance author1="F&#xE1;bio Luciano Verdi" author2="Edmundo Roberto Mauro Madeira" distance="1"/>
+  <distance author1="F&#xE1;bio Luciano Verdi" author2="Maur&#xED;cio F. Magalh&#xE3;es" distance="1"/>
+  <distance author1="Maur&#xED;cio F. Magalh&#xE3;es" author2="Edmundo Roberto Mauro Madeira" distance="1"/>
+  <distance author1="Maur&#xED;cio F. Magalh&#xE3;es" author2="Annikki Welin" distance="1"/>
+  <distance author1="Edmundo Roberto Mauro Madeira" author2="Annikki Welin" distance="1"/>
+  <distance author1="Sean Rooney" author2="Luis Garc&#xE9;s-Erice" distance="1"/>
+  <distance author1="Alexander W&#xF6;hrer" author2="Peter Brezany" distance="1"/>
+  <distance author1="Sajid Hussain" author2="Obidul Islam" distance="1"/>
+  <distance author1="Sajid Hussain" author2="Abdul Wasey Matin" distance="1"/>
+  <distance author1="Abdul Wasey Matin" author2="Obidul Islam" distance="1"/>
+  <distance author1="Darcy G. Benoit" author2="Devin Slauenwhite" distance="1"/>
+  <distance author1="Darcy G. Benoit" author2="Andr&#xE9; Trudel" distance="1"/>
+  <distance author1="Darcy G. Benoit" author2="Nick Schofield" distance="1"/>
+  <distance author1="Devin Slauenwhite" author2="Andr&#xE9; Trudel" distance="1"/>
+  <distance author1="Devin Slauenwhite" author2="Nick Schofield" distance="1"/>
+  <distance author1="Nick Schofield" author2="Andr&#xE9; Trudel" distance="1"/>
+  <distance author1="Lotfi Mhamdi" author2="Stamatis Vassiliadis" distance="1"/>
+  <distance author1="Lotfi Mhamdi" author2="Georgi Gaydadjiev" distance="1"/>
+  <distance author1="Georgi Gaydadjiev" author2="Stamatis Vassiliadis" distance="1"/>
+  <distance author1="Thomas Hoeher" author2="Michael Hirschbichler" distance="1"/>
+  <distance author1="Thomas Hoeher" author2="Slobodanka Tomic" distance="1"/>
+  <distance author1="Thomas Hoeher" author2="Martin Petraschek" distance="1"/>
+  <distance author1="Martin Petraschek" author2="Michael Hirschbichler" distance="1"/>
+  <distance author1="Martin Petraschek" author2="Slobodanka Tomic" distance="1"/>
+  <distance author1="Slobodanka Tomic" author2="Michael Hirschbichler" distance="1"/>
+  <distance author1="Lauri I. W. Pesonen" author2="David M. Eyers" distance="1"/>
+  <distance author1="Lauri I. W. Pesonen" author2="Jean Bacon" distance="1"/>
+  <distance author1="David M. Eyers" author2="Jean Bacon" distance="1"/>
+  <distance author1="Francesco Palmieri" author2="Ugo Fiore" distance="1"/>
+  <distance author1="Rama Krishna Challa" author2="Debasish Datta" distance="1"/>
+  <distance author1="Rama Krishna Challa" author2="Saswat Chakrabarti" distance="1"/>
+  <distance author1="Saswat Chakrabarti" author2="Debasish Datta" distance="1"/>
+  <distance author1="Lukasz Opyrchal" author2="Atul Prakash" distance="1"/>
+  <distance author1="Lukasz Opyrchal" author2="Amit Agrawal" distance="1"/>
+  <distance author1="Atul Prakash" author2="Amit Agrawal" distance="1"/>
+  <distance author1="Sahel Alouneh" author2="Abdeslam En-Nouaary" distance="1"/>
+  <distance author1="Sahel Alouneh" author2="Anjali Agarwal" distance="1"/>
+  <distance author1="Abdeslam En-Nouaary" author2="Anjali Agarwal" distance="1"/>
+  <distance author1="Mari Carmen Domingo" author2="Rui Prior" distance="1"/>
+  <distance author1="Antonio Corradi" author2="Alessandra Toninelli" distance="1"/>
+  <distance author1="Antonio Corradi" author2="Rebecca Montanari" distance="1"/>
+  <distance author1="Rebecca Montanari" author2="Alessandra Toninelli" distance="1"/>
+  <distance author1="Hsin-Chin Liu" author2="Yung-Ting Chen" distance="1"/>
+  <distance author1="Hsin-Chin Liu" author2="Yi-Fan Chen" distance="1"/>
+  <distance author1="Yi-Fan Chen" author2="Yung-Ting Chen" distance="1"/>
+  <distance author1="Rami Yared" author2="Julien Iguchi-Cartigny" distance="1"/>
+  <distance author1="Rami Yared" author2="Matthias Wiesmann" distance="1"/>
+  <distance author1="Rami Yared" author2="Xavier D&#xE9;fago" distance="1"/>
+  <distance author1="Xavier D&#xE9;fago" author2="Julien Iguchi-Cartigny" distance="1"/>
+  <distance author1="Xavier D&#xE9;fago" author2="Matthias Wiesmann" distance="1"/>
+  <distance author1="Julien Iguchi-Cartigny" author2="Matthias Wiesmann" distance="1"/>
+  <distance author1="Luca Campelli" author2="Roberta Fracchia" distance="1"/>
+  <distance author1="Luca Campelli" author2="Matteo Cesana" distance="1"/>
+  <distance author1="Matteo Cesana" author2="Roberta Fracchia" distance="1"/>
+  <distance author1="Lakshmanan Senthilkumar" author2="Venkadachalam Sankaranarayanan" distance="1"/>
+  <distance author1="Antonio Capone" author2="Fabio Martignon" distance="1"/>
+  <distance author1="Azizul R. Mohd. Shariff" author2="Mike E. Woodward" distance="1"/>
+  <distance author1="Yoshiaki Taniguchi" author2="Masayuki Murata" distance="1"/>
+  <distance author1="Yoshiaki Taniguchi" author2="Naoki Wakamiya" distance="1"/>
+  <distance author1="Naoki Wakamiya" author2="Masayuki Murata" distance="1"/>
+  <distance author1="Christian Makaya" author2="Samuel Pierre" distance="1"/>
+  <distance author1="Debdhanit Yupho" author2="Joseph Kabara" distance="1"/>
+  <distance author1="Hideyuki Takahashi" author2="Tetsuo Kinoshita" distance="1"/>
+  <distance author1="Hideyuki Takahashi" author2="Yoshikazu Tokairin" distance="1"/>
+  <distance author1="Hideyuki Takahashi" author2="Kenji Sugawara" distance="1"/>
+  <distance author1="Hideyuki Takahashi" author2="Norio Shiratori" distance="1"/>
+  <distance author1="Hideyuki Takahashi" author2="Takuo Suganuma" distance="1"/>
+  <distance author1="Hideyuki Takahashi" author2="Kazuhiro Yamanaka" distance="1"/>
+  <distance author1="Yoshikazu Tokairin" author2="Takuo Suganuma" distance="1"/>
+  <distance author1="Yoshikazu Tokairin" author2="Kenji Sugawara" distance="1"/>
+  <distance author1="Yoshikazu Tokairin" author2="Tetsuo Kinoshita" distance="1"/>
+  <distance author1="Yoshikazu Tokairin" author2="Norio Shiratori" distance="1"/>
+  <distance author1="Yoshikazu Tokairin" author2="Kazuhiro Yamanaka" distance="1"/>
+  <distance author1="Kazuhiro Yamanaka" author2="Norio Shiratori" distance="1"/>
+  <distance author1="Kazuhiro Yamanaka" author2="Kenji Sugawara" distance="1"/>
+  <distance author1="Kazuhiro Yamanaka" author2="Tetsuo Kinoshita" distance="1"/>
+  <distance author1="Kazuhiro Yamanaka" author2="Takuo Suganuma" distance="1"/>
+  <distance author1="Takuo Suganuma" author2="Kenji Sugawara" distance="1"/>
+  <distance author1="Takuo Suganuma" author2="Tetsuo Kinoshita" distance="1"/>
+  <distance author1="Takuo Suganuma" author2="Norio Shiratori" distance="1"/>
+  <distance author1="Tetsuo Kinoshita" author2="Kenji Sugawara" distance="1"/>
+  <distance author1="Tetsuo Kinoshita" author2="Norio Shiratori" distance="1"/>
+  <distance author1="Kenji Sugawara" author2="Norio Shiratori" distance="1"/>
+  <distance author1="Jing Fu" author2="Gunnar Karlsson" distance="1"/>
+  <distance author1="Jing Fu" author2="Olof Hagsand" distance="1"/>
+  <distance author1="Olof Hagsand" author2="Gunnar Karlsson" distance="1"/>
+  <distance author1="Nobuyoshi Sato" author2="Minoru Uehara" distance="1"/>
+  <distance author1="Nobuyoshi Sato" author2="Hirobumi Yamamoto" distance="1"/>
+  <distance author1="Nobuyoshi Sato" author2="Ken'ichi Kamijo" distance="1"/>
+  <distance author1="Nobuyoshi Sato" author2="Koichiro Shimomura" distance="1"/>
+  <distance author1="Minoru Uehara" author2="Ken'ichi Kamijo" distance="1"/>
+  <distance author1="Minoru Uehara" author2="Koichiro Shimomura" distance="1"/>
+  <distance author1="Minoru Uehara" author2="Hirobumi Yamamoto" distance="1"/>
+  <distance author1="Koichiro Shimomura" author2="Hirobumi Yamamoto" distance="1"/>
+  <distance author1="Koichiro Shimomura" author2="Ken'ichi Kamijo" distance="1"/>
+  <distance author1="Hirobumi Yamamoto" author2="Ken'ichi Kamijo" distance="1"/>
+  <distance author1="Akbar Ghaffar Pour Rahbar" author2="Oliver W. W. Yang" distance="1"/>
+  <distance author1="Mostafa H. Dahshan" author2="Pramode K. Verma" distance="1"/>
+  <distance author1="Abdul Waheed" author2="Jianxun Jason Ding" distance="1"/>
+  <distance author1="Alicia Nicki Washington" author2="Harry G. Perros" distance="1"/>
+  <distance author1="Peng Zhuang" author2="Hongchi Shi" distance="1"/>
+  <distance author1="Peng Zhuang" author2="Yi Shang" distance="1"/>
+  <distance author1="Yi Shang" author2="Hongchi Shi" distance="1"/>
+  <distance author1="Juan Vera del Campo" author2="Miguel Soriano" distance="1"/>
+  <distance author1="Juan Vera del Campo" author2="Josep Pegueroles" distance="1"/>
+  <distance author1="Josep Pegueroles" author2="Miguel Soriano" distance="1"/>
+  <distance author1="Jens Milbrandt" author2="Jan Junker" distance="1"/>
+  <distance author1="Jens Milbrandt" author2="Michael Menth" distance="1"/>
+  <distance author1="Michael Menth" author2="Jan Junker" distance="1"/>
+  <distance author1="Majid I. Khan" author2="Wilfried N. Gansterer" distance="1"/>
+  <distance author1="Majid I. Khan" author2="G&#xFC;nter Haring" distance="1"/>
+  <distance author1="Wilfried N. Gansterer" author2="G&#xFC;nter Haring" distance="1"/>
+  <distance author1="Poondi Srinivasan Pandian" author2="Vinod Chidambar Padaki" distance="1"/>
+  <distance author1="Poondi Srinivasan Pandian" author2="Parvati Gopal" distance="1"/>
+  <distance author1="Poondi Srinivasan Pandian" author2="Kadavath Peedikayil Safeer" distance="1"/>
+  <distance author1="Poondi Srinivasan Pandian" author2="Doddamallur Thirumala Iyengar Shakunthala" distance="1"/>
+  <distance author1="Kadavath Peedikayil Safeer" author2="Vinod Chidambar Padaki" distance="1"/>
+  <distance author1="Kadavath Peedikayil Safeer" author2="Parvati Gopal" distance="1"/>
+  <distance author1="Kadavath Peedikayil Safeer" author2="Doddamallur Thirumala Iyengar Shakunthala" distance="1"/>
+  <distance author1="Doddamallur Thirumala Iyengar Shakunthala" author2="Parvati Gopal" distance="1"/>
+  <distance author1="Doddamallur Thirumala Iyengar Shakunthala" author2="Vinod Chidambar Padaki" distance="1"/>
+  <distance author1="Parvati Gopal" author2="Vinod Chidambar Padaki" distance="1"/>
+  <distance author1="Wei Shen" author2="Qing-An Zeng" distance="1"/>
+  <distance author1="Pedro Sousa" author2="Paulo Cortez" distance="1"/>
+  <distance author1="Pedro Sousa" author2="Miguel Rio" distance="1"/>
+  <distance author1="Pedro Sousa" author2="Miguel Rocha" distance="1"/>
+  <distance author1="Miguel Rocha" author2="Miguel Rio" distance="1"/>
+  <distance author1="Miguel Rocha" author2="Paulo Cortez" distance="1"/>
+  <distance author1="Miguel Rio" author2="Paulo Cortez" distance="1"/>
+  <distance author1="Xiang Li" author2="Xiaofan Wang" distance="1"/>
+  <distance author1="T. Floquet" author2="J. P. Barbot" distance="1"/>
+  <distance author1="B. Mukhopadhyay" author2="R. Bhattacharyya" distance="1"/>
+  <distance author1="L. Z. Guo" author2="S. S. Mei" distance="1"/>
+  <distance author1="L. Z. Guo" author2="S. A. Billings" distance="1"/>
+  <distance author1="S. S. Mei" author2="S. A. Billings" distance="1"/>
+  <distance author1="Yuanqing Xia" author2="E. J. C. Thomas" distance="1"/>
+  <distance author1="Yuanqing Xia" author2="David Rees" distance="1"/>
+  <distance author1="Yuanqing Xia" author2="P. Shi" distance="1"/>
+  <distance author1="Yuanqing Xia" author2="Guo-Ping Liu" distance="1"/>
+  <distance author1="Guo-Ping Liu" author2="E. J. C. Thomas" distance="1"/>
+  <distance author1="Guo-Ping Liu" author2="P. Shi" distance="1"/>
+  <distance author1="Guo-Ping Liu" author2="David Rees" distance="1"/>
+  <distance author1="P. Shi" author2="David Rees" distance="1"/>
+  <distance author1="P. Shi" author2="E. J. C. Thomas" distance="1"/>
+  <distance author1="David Rees" author2="E. J. C. Thomas" distance="1"/>
+  <distance author1="Leonid Fridman" author2="Jorge Davila" distance="1"/>
+  <distance author1="Leonid Fridman" author2="Arie Levant" distance="1"/>
+  <distance author1="Arie Levant" author2="Jorge Davila" distance="1"/>
+  <distance author1="Bin Yang" author2="Xuejun Pan" distance="1"/>
+  <distance author1="Bin Yang" author2="Jincheng Wang" distance="1"/>
+  <distance author1="Bin Yang" author2="Chongquan Zhong" distance="1"/>
+  <distance author1="Jincheng Wang" author2="Xuejun Pan" distance="1"/>
+  <distance author1="Jincheng Wang" author2="Chongquan Zhong" distance="1"/>
+  <distance author1="Xuejun Pan" author2="Chongquan Zhong" distance="1"/>
+  <distance author1="H. Boughari" author2="N. E. Radhy" distance="1"/>
+  <distance author1="M.-R. Hsu" author2="J.-H. Chou" distance="1"/>
+  <distance author1="M.-R. Hsu" author2="W.-H. Ho" distance="1"/>
+  <distance author1="W.-H. Ho" author2="J.-H. Chou" distance="1"/>
+  <distance author1="Yuri B. Shtessel" author2="Sarah K. Spurgeon" distance="1"/>
+  <distance author1="Yuri B. Shtessel" author2="A. Ferreira" distance="2"/>
+  <distance author1="Yuri B. Shtessel" author2="Leonid M. Fridman" distance="1"/>
+  <distance author1="Yuri B. Shtessel" author2="Christopher Edwards" distance="2"/>
+  <distance author1="Yuri B. Shtessel" author2="Francisco Javier Bejarano" distance="2"/>
+  <distance author1="Yuri B. Shtessel" author2="Nitin Patel" distance="2"/>
+  <distance author1="Yuri B. Shtessel" author2="M. Basin" distance="2"/>
+  <distance author1="Yuri B. Shtessel" author2="Alexander S. Poznyak" distance="2"/>
+  <distance author1="Sarah K. Spurgeon" author2="M. Basin" distance="2"/>
+  <distance author1="Sarah K. Spurgeon" author2="Francisco Javier Bejarano" distance="2"/>
+  <distance author1="Sarah K. Spurgeon" author2="Christopher Edwards" distance="1"/>
+  <distance author1="Sarah K. Spurgeon" author2="A. Ferreira" distance="2"/>
+  <distance author1="Sarah K. Spurgeon" author2="Leonid M. Fridman" distance="1"/>
+  <distance author1="Sarah K. Spurgeon" author2="Nitin Patel" distance="1"/>
+  <distance author1="Sarah K. Spurgeon" author2="Alexander S. Poznyak" distance="2"/>
+  <distance author1="Leonid M. Fridman" author2="A. Ferreira" distance="1"/>
+  <distance author1="Leonid M. Fridman" author2="Francisco Javier Bejarano" distance="1"/>
+  <distance author1="Leonid M. Fridman" author2="M. Basin" distance="1"/>
+  <distance author1="Leonid M. Fridman" author2="Alexander S. Poznyak" distance="1"/>
+  <distance author1="J. Acosta" author2="A. Nebot" distance="1"/>
+  <distance author1="J. Acosta" author2="J. M. Fuertes" distance="1"/>
+  <distance author1="J. Acosta" author2="P. Villar" distance="1"/>
+  <distance author1="A. Nebot" author2="P. Villar" distance="1"/>
+  <distance author1="A. Nebot" author2="J. M. Fuertes" distance="1"/>
+  <distance author1="P. Villar" author2="J. M. Fuertes" distance="1"/>
+  <distance author1="L. F. Zhang" author2="A. Longden" distance="1"/>
+  <distance author1="L. F. Zhang" author2="Q. M. Zhu" distance="1"/>
+  <distance author1="Q. M. Zhu" author2="A. Longden" distance="1"/>
+  <distance author1="Hitoshi Katayama" author2="Akira Ichikawa" distance="1"/>
+  <distance author1="Xuyang Lou" author2="Baotong Cui" distance="1"/>
+  <distance author1="Zi-Jiang Yang" author2="Kiyoshi Wada" distance="1"/>
+  <distance author1="Zi-Jiang Yang" author2="Toshimasa Nagai" distance="1"/>
+  <distance author1="Zi-Jiang Yang" author2="Shunshoku Kanae" distance="1"/>
+  <distance author1="Toshimasa Nagai" author2="Shunshoku Kanae" distance="1"/>
+  <distance author1="Toshimasa Nagai" author2="Kiyoshi Wada" distance="1"/>
+  <distance author1="Shunshoku Kanae" author2="Kiyoshi Wada" distance="1"/>
+  <distance author1="Xiaofan Yang" author2="Xiaofeng Liao" distance="1"/>
+  <distance author1="Xiaofan Yang" author2="David J. Evans" distance="1"/>
+  <distance author1="Xiaofan Yang" author2="Yuan Yan Tang" distance="1"/>
+  <distance author1="David J. Evans" author2="Xiaofeng Liao" distance="1"/>
+  <distance author1="David J. Evans" author2="Yuan Yan Tang" distance="1"/>
+  <distance author1="Yuan Yan Tang" author2="Xiaofeng Liao" distance="1"/>
+  <distance author1="Baocang Ding" author2="Biao Huang" distance="1"/>
+  <distance author1="Bin Zhou" author2="Guang-Ren Duan" distance="1"/>
+  <distance author1="Y. P. Li" author2="G. H. Huang" distance="1"/>
+  <distance author1="R. Raoufi" author2="Alan Solon Ivor Zinober" distance="1"/>
+  <distance author1="X. Hong" author2="R. J. Mitchell" distance="1"/>
+  <distance author1="Manuel Jimenez-Lizarraga" author2="Alex Poznyak" distance="1"/>
+  <distance author1="S. Baev" author2="Y. Shtessel" distance="1"/>
+  <distance author1="S. Baev" author2="Francisco Javier Bejarano" distance="2"/>
+  <distance author1="S. Baev" author2="Alexander S. Poznyak" distance="1"/>
+  <distance author1="S. Baev" author2="I. Shkolnikov" distance="1"/>
+  <distance author1="I. Shkolnikov" author2="Francisco Javier Bejarano" distance="2"/>
+  <distance author1="I. Shkolnikov" author2="Alexander S. Poznyak" distance="1"/>
+  <distance author1="I. Shkolnikov" author2="Y. Shtessel" distance="1"/>
+  <distance author1="Y. Shtessel" author2="Francisco Javier Bejarano" distance="2"/>
+  <distance author1="Y. Shtessel" author2="Alexander S. Poznyak" distance="1"/>
+  <distance author1="Alexander S. Poznyak" author2="Francisco Javier Bejarano" distance="1"/>
+  <distance author1="Nitin Patel" author2="Christopher Edwards" distance="1"/>
+  <distance author1="Baoyong Zhang" author2="James Lam" distance="2"/>
+  <distance author1="Baoyong Zhang" author2="Shengyuan Xu" distance="1"/>
+  <distance author1="Baoyong Zhang" author2="Shaosheng Zhou" distance="1"/>
+  <distance author1="Shaosheng Zhou" author2="Shengyuan Xu" distance="1"/>
+  <distance author1="Shaosheng Zhou" author2="James Lam" distance="1"/>
+  <distance author1="Yu-Chung Tsao" author2="Gwo-Ji Sheen" distance="1"/>
+  <distance author1="Tao Cheng" author2="Murad Abu-Khalaf" distance="1"/>
+  <distance author1="Tao Cheng" author2="Frank L. Lewis" distance="1"/>
+  <distance author1="Frank L. Lewis" author2="Murad Abu-Khalaf" distance="1"/>
+  <distance author1="D. D. Santoso" author2="T. V. Breikin" distance="1"/>
+  <distance author1="D. D. Santoso" author2="Peter J. Fleming" distance="1"/>
+  <distance author1="D. D. Santoso" author2="H. A. Thompson" distance="1"/>
+  <distance author1="D. D. Santoso" author2="S. M. Hargrave" distance="1"/>
+  <distance author1="S. M. Hargrave" author2="T. V. Breikin" distance="1"/>
+  <distance author1="S. M. Hargrave" author2="Peter J. Fleming" distance="1"/>
+  <distance author1="S. M. Hargrave" author2="H. A. Thompson" distance="1"/>
+  <distance author1="T. V. Breikin" author2="H. A. Thompson" distance="1"/>
+  <distance author1="T. V. Breikin" author2="Peter J. Fleming" distance="1"/>
+  <distance author1="H. A. Thompson" author2="Peter J. Fleming" distance="1"/>
+  <distance author1="Pandian Vasant" author2="Arijit Bhattacharya" distance="1"/>
+  <distance author1="Arantza Sanz" author2="Victor Etxebarria" distance="1"/>
+  <distance author1="S. Mukherjee" author2="R. C. Mittal" distance="1"/>
+  <distance author1="S. Mukherjee" author2="Satakshi" distance="1"/>
+  <distance author1="Satakshi" author2="R. C. Mittal" distance="1"/>
+  <distance author1="Jinn-Tsair Teng" author2="Ya-Lan Chan" distance="1"/>
+  <distance author1="Jinn-Tsair Teng" author2="Maw-Sheng Chern" distance="1"/>
+  <distance author1="Jinn-Tsair Teng" author2="Chun-Tao Chang" distance="1"/>
+  <distance author1="Chun-Tao Chang" author2="Maw-Sheng Chern" distance="1"/>
+  <distance author1="Chun-Tao Chang" author2="Ya-Lan Chan" distance="1"/>
+  <distance author1="Maw-Sheng Chern" author2="Ya-Lan Chan" distance="1"/>
+  <distance author1="Alessandro Pisano" author2="Elio Usai" distance="1"/>
+  <distance author1="Ji-Hong Li" author2="Sang-Jeong Lee" distance="1"/>
+  <distance author1="Ji-Hong Li" author2="Seok-Won Hong" distance="1"/>
+  <distance author1="Ji-Hong Li" author2="Pan-Mook Lee" distance="1"/>
+  <distance author1="Pan-Mook Lee" author2="Seok-Won Hong" distance="1"/>
+  <distance author1="Pan-Mook Lee" author2="Sang-Jeong Lee" distance="1"/>
+  <distance author1="Seok-Won Hong" author2="Sang-Jeong Lee" distance="1"/>
+  <distance author1="Natali Hritonenko" author2="Yuri Yatsenko" distance="1"/>
+  <distance author1="I. Konstantaras" author2="S. K. Goyal" distance="1"/>
+  <distance author1="I. Konstantaras" author2="S. Papachristos" distance="1"/>
+  <distance author1="S. K. Goyal" author2="S. Papachristos" distance="1"/>
+  <distance author1="S. Li" author2="Y. Wang" distance="1"/>
+  <distance author1="J. S. Taur" author2="C. W. Tao" distance="1"/>
+  <distance author1="J. S. Taur" author2="Gwo-Her Lee" distance="1"/>
+  <distance author1="Gwo-Her Lee" author2="C. W. Tao" distance="1"/>
+  <distance author1="Wen Chen" author2="Fahmida N. Chowdhury" distance="1"/>
+  <distance author1="Anping Chen" author2="Jinde Cao" distance="1"/>
+  <distance author1="Anping Chen" author2="Lihong Huang" distance="1"/>
+  <distance author1="Lihong Huang" author2="Jinde Cao" distance="1"/>
+  <distance author1="Jean Michel Pflimlin" author2="Tarek Hamel" distance="1"/>
+  <distance author1="Jean Michel Pflimlin" author2="Philippe Sou&#xE8;res" distance="1"/>
+  <distance author1="Tarek Hamel" author2="Philippe Sou&#xE8;res" distance="1"/>
+  <distance author1="Guan Jun Wang" author2="Yuan Lin Zhang" distance="1"/>
+  <distance author1="P. K. Kapur" author2="V. S. S. Yadavalli" distance="1"/>
+  <distance author1="P. K. Kapur" author2="A. K. Bardhan" distance="1"/>
+  <distance author1="A. K. Bardhan" author2="V. S. S. Yadavalli" distance="1"/>
+  <distance author1="Shihyu Chou" author2="Min-Chiang Wang" distance="1"/>
+  <distance author1="Jose I. Canelon" author2="Leang S. Shieh" distance="1"/>
+  <distance author1="Jose I. Canelon" author2="Nisarg Mehta" distance="1"/>
+  <distance author1="Jose I. Canelon" author2="Robert S. Provence" distance="1"/>
+  <distance author1="Robert S. Provence" author2="Nisarg Mehta" distance="1"/>
+  <distance author1="Robert S. Provence" author2="Leang S. Shieh" distance="1"/>
+  <distance author1="Nisarg Mehta" author2="Leang S. Shieh" distance="1"/>
+  <distance author1="Tang Hao" author2="Xi Hongsheng" distance="1"/>
+  <distance author1="Tang Hao" author2="Yin Baoqun" distance="1"/>
+  <distance author1="Yin Baoqun" author2="Xi Hongsheng" distance="1"/>
+  <distance author1="BaoCang Ding" author2="Julia H. Tang" distance="1"/>
+  <distance author1="Yu-Hung Chien" author2="Jih-An Chen" distance="1"/>
+  <distance author1="Jinyan Shao" author2="Junzhi Yu" distance="1"/>
+  <distance author1="Jinyan Shao" author2="Long Wang" distance="1"/>
+  <distance author1="Long Wang" author2="Junzhi Yu" distance="1"/>
+  <distance author1="Kun-Shan Wu" author2="Chia-Huei Ho" distance="1"/>
+  <distance author1="Kun-Shan Wu" author2="Liang-Yuh Ouyang" distance="1"/>
+  <distance author1="Liang-Yuh Ouyang" author2="Chia-Huei Ho" distance="1"/>
+  <distance author1="Leishi Bai" author2="Zuohua Tian" distance="1"/>
+  <distance author1="Leishi Bai" author2="Songjiao Shi" distance="1"/>
+  <distance author1="Zuohua Tian" author2="Songjiao Shi" distance="1"/>
+  <distance author1="Salim Labiod" author2="Thierry-Marie Guerra" distance="1"/>
+  <distance author1="Weitian Chen" author2="Mehrdad Saif" distance="1"/>
+  <distance author1="Zetao Li" author2="Boutaieb Dahhou" distance="1"/>
+  <distance author1="Gerasimos G. Rigatos" author2="Spyros G. Tzafestas" distance="1"/>
+  <distance author1="Dengfeng Zhang" author2="Shousong Hu" distance="1"/>
+  <distance author1="Dengfeng Zhang" author2="Zhiquan Wang" distance="1"/>
+  <distance author1="Zhiquan Wang" author2="Shousong Hu" distance="1"/>
+  <distance author1="Tae-Hyoung Kim" author2="Toshiharu Sugie" distance="1"/>
+  <distance author1="I. BoIko" author2="L. Fridman" distance="1"/>
+  <distance author1="I. BoIko" author2="M. I. Castellanos" distance="1"/>
+  <distance author1="M. I. Castellanos" author2="L. Fridman" distance="1"/>
+  <distance author1="Nong Gu" author2="Yong Xiang" distance="1"/>
+  <distance author1="Nong Gu" author2="Min Tan" distance="1"/>
+  <distance author1="Nong Gu" author2="Wensheng Yu" distance="1"/>
+  <distance author1="Wensheng Yu" author2="Min Tan" distance="1"/>
+  <distance author1="Wensheng Yu" author2="Yong Xiang" distance="1"/>
+  <distance author1="Yong Xiang" author2="Min Tan" distance="1"/>
+  <distance author1="Claudio Aurora" author2="Antonella Ferrara" distance="1"/>
+  <distance author1="M. Basin" author2="A. Ferreira" distance="1"/>
+  <distance author1="Seiichi Kobayashi" author2="Katsuhisa Furuta" distance="1"/>
+  <distance author1="Edvaldo Assun&#xE7;&#xE3;o" author2="Pedro L. D. Peres" distance="1"/>
+  <distance author1="Edvaldo Assun&#xE7;&#xE3;o" author2="Marcelo C. M. Teixeira" distance="1"/>
+  <distance author1="Edvaldo Assun&#xE7;&#xE3;o" author2="Henrique F. Marchesi" distance="1"/>
+  <distance author1="Henrique F. Marchesi" author2="Marcelo C. M. Teixeira" distance="1"/>
+  <distance author1="Henrique F. Marchesi" author2="Pedro L. D. Peres" distance="1"/>
+  <distance author1="Marcelo C. M. Teixeira" author2="Pedro L. D. Peres" distance="1"/>
+  <distance author1="D&#xE9;cio Crisol Donha" author2="M. R. Katebi" distance="1"/>
+  <distance author1="Heng Yue" author2="Tianyou Chai" distance="1"/>
+  <distance author1="Heng Yue" author2="Han-Xiong Li" distance="1"/>
+  <distance author1="Han-Xiong Li" author2="Tianyou Chai" distance="1"/>
+</distances>
