@@ -1,5 +1,56 @@
 \section{Distances}
 
-% TODO
+\noindent The goal of this 3rd exercise was to retrieve the distance between
+each pair of authors.\\
+
+First, we created a graph with nodes corresponding to each authors in the dblp
+excerpt, and edges symbolizing direct co-authorship. The graph is undirected,
+as such, if the \hl{<edge from="2" to="3"/>} edge is defined, then the
+\hl{<edge from="3" to="2"/>} edge is not present in the xml representation of the
+graph in order to avoid unecessary computation later.\\
+
+\begin{lstlisting}[caption=Example of generated graph]
+<?xml version="1.0"?>
+<graph>
+  <nodes>
+    <node id="1" name="Mazeyar E. Makoui"/>
+    <node id="2" name="Gunter Saake"/>
+    <node id="3" name="Kai-Uwe Sattler"/>
+    <node id="4" name="Andreas Heuer"/>
+    ...
+  </nodes>
+  <edges>
+    <edge from="2" to="3"/>
+    <edge from="2" to="4"/>
+    <edge from="3" to="4"/>
+    ...
+  </edges>
+</graph>
+\end{lstlisting}
+\
+
+From these nodes and edges we can then compute the distances by using a
+recursive depth-first search algorithm \cite{cite:sodfs}. For each node, a
+recursive depth-first search is run in order to retrieve the distance between
+this author and all related authors.\\
+
+The \hl{\$visited} sequence is used as a stack in order to avoid being stuck in
+a cycle caused by nodes being revisited infinitely.\\
+
+It also must be noted that once the DFS is finished for a node, the
+\hl{ufn:filter\_duplicates(\$node, \$distances)} function is ran on the computed
+distances for the current node. Duplicates are possible in the
+(author1, author2) pairs because there are many paths that can go from the
+current author to another author. So, we filter results by selecting the minimal
+distance from the duplicate pairs.\\
+
+\begin{framewarning}
+    The way we handled the computation is probably not the most efficient one,
+    since for the given excerpt of dblp, for the program running on one core at
+    2.60 GHz, it took approximately 7 minutes. For the full dblp bibliography
+    containing more than 2 millions nodes, it would take years. The computation
+    time could be divided by executing parts of the computation on multiple CPU
+    cores and on multiple computers.
+\end{framewarning}
 
 \newpage
