@@ -4,10 +4,10 @@
 each pair of authors.\\
 
 First, we created a graph with nodes corresponding to each authors in the dblp
-excerpt, and edges symbolizing direct co-authorship. The graph is undirected,
-as such, if the \hl{<edge from="2" to="3"/>} edge is defined, then the
-\hl{<edge from="3" to="2"/>} edge is not present in the xml representation of the
-graph in order to avoid unecessary computation later.\\
+excerpt, and edges symbolising direct co-authorship. The graph is undirected,
+as such, if the \hl{<edge from="2" to="3"/>} is defined, then the
+\hl{<edge from="3" to="2"/>} is not present in the xml representation of the
+graph in order to avoid unnecessary computation later.\\
 
 \begin{lstlisting}[caption=Example of generated graph]
 <?xml version="1.0"?>
@@ -33,6 +33,28 @@ From these nodes and edges we can then compute the distances by using a
 recursive depth-first search algorithm \cite{cite:sodfs}. For each node, a
 recursive depth-first search is run in order to retrieve the distance between
 this author and all related authors.\\
+
+\begin{lstlisting}
+declare function ufn:distances($graph, $start, $node, $visited, $level) {
+    let $coauthors_edges := $graph/edges/edge[@from = $node/@id and not(@to = $visited)]
+    
+    return if (not(empty($coauthors_edges))) then (
+        for $edge in $coauthors_edges
+            let $next_node := $graph/nodes/node[@id = $edge/@to]
+            
+            return (
+                element distance {
+                    attribute author1 { data($start/@name) },
+                    attribute author2 { data($next_node/@name) },
+                    attribute distance { $level }
+                },
+                ufn:distances($graph, $start, $next_node, ($visited, data($edge/@to)), $level + 1)
+            )
+    )
+    else ()
+};
+\end{lstlisting}
+\
 
 The \hl{\$visited} sequence is used as a stack in order to avoid being stuck in
 a cycle caused by nodes being revisited infinitely.\\
